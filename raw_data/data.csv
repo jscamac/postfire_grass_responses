@@ -1,0 +1,781 @@
+Treatment,Species,Subfamily,Tribe,Tribe_ID,Tillers_prefire,Tillers_postfire,PER_RS,EM_Days,FLO_Week,Basal_cm2,Tillers_cm2,Wet_weight_mg,LA_mm2,Dry_weight_mg,SLA,LDMC,Type,HBT,LC
+4 Days,Amphibromus nervosus,Pooideae,Poeae,1,115,60,52.17,2,NA,17.9,6.42,742,917.01,238,3.85,320.75,C3,Tufed ,p
+4 Days,Amphibromus nervosus,Pooideae,Poeae,1,88,72,81.82,2,NA,15.6,5.64,742,917.01,238,3.85,320.75,C3,Tufed,p
+4 Days,Amphibromus nervosus,Pooideae,Poeae,1,68,44,64.71,4,NA,15.6,4.36,742,917.01,238,3.85,320.75,C3,Tufed,p
+4 Days,Amphibromus nervosus,Pooideae,Poeae,1,154,59,38.31,2,NA,15.6,9.87,742,917.01,238,3.85,320.75,C3,Tufed,p
+4 Days,Amphibromus nervosus,Pooideae,Poeae,1,87,37,42.53,4,NA,9.63,9.04,742,917.01,238,3.85,320.75,C3,Tufed,p
+8 Days,Amphibromus nervosus,Pooideae,Poeae,1,90,63,70,2,NA,17.9,5.03,539,915.09,166,5.51,307.98,C3,Tufed,p
+8 Days,Amphibromus nervosus,Pooideae,Poeae,1,57,51,89.47,2,NA,15.6,3.65,539,915.09,166,5.51,307.98,C3,Tufed,p
+8 Days,Amphibromus nervosus,Pooideae,Poeae,1,98,66,67.35,2,NA,13.45,7.29,539,915.09,166,5.51,307.98,C3,Tufed,p
+8 Days,Amphibromus nervosus,Pooideae,Poeae,1,71,58,81.69,2,NA,17.9,3.97,539,915.09,166,5.51,307.98,C3,Tufed,p
+8 Days,Amphibromus nervosus,Pooideae,Poeae,1,66,37,56.06,2,NA,15.6,4.23,539,915.09,166,5.51,307.98,C3,Tufed,p
+11 Days,Amphibromus nervosus,Pooideae,Poeae,1,73,53,72.6,4,NA,28.73,2.54,302,484.02,102,4.75,337.75,C3,Tufed,p
+11 Days,Amphibromus nervosus,Pooideae,Poeae,1,45,54,120,2,NA,11.46,3.93,302,484.02,102,4.75,337.75,C3,Tufed,p
+11 Days,Amphibromus nervosus,Pooideae,Poeae,1,77,85,110.39,2,NA,15.6,4.94,302,484.02,102,4.75,337.75,C3,Tufed,p
+11 Days,Amphibromus nervosus,Pooideae,Poeae,1,58,57,98.28,2,NA,17.9,3.24,302,484.02,102,4.75,337.75,C3,Tufed,p
+11 Days,Amphibromus nervosus,Pooideae,Poeae,1,81,103,127.16,4,NA,9.63,8.41,302,484.02,102,4.75,337.75,C3,Tufed,p
+4 Days,Austrostipa rudis ssp rudis,Pooideae,Stipeae,2,51,0,0,NA,NA,15.6,3.27,1567,2923.45,569,5.14,363.11,C3,"Tufted, shortly rhizomatous",p
+4 Days,Austrostipa rudis ssp rudis,Pooideae,Stipeae,2,37,0,0,NA,NA,13.45,2.75,1567,2923.45,569,5.14,363.11,C3,"Tufted, shortly rhizomatous",p
+4 Days,Austrostipa rudis ssp rudis,Pooideae,Stipeae,2,55,0,0,NA,NA,15.6,3.53,1567,2923.45,569,5.14,363.11,C3,"Tufted, shortly rhizomatous",p
+4 Days,Austrostipa rudis ssp rudis,Pooideae,Stipeae,2,45,0,0,NA,NA,15.6,2.89,1567,2923.45,569,5.14,363.11,C3,"Tufted, shortly rhizomatous",p
+4 Days,Austrostipa rudis ssp rudis,Pooideae,Stipeae,2,59,0,0,NA,NA,31.83,1.85,1567,2923.45,569,5.14,363.11,C3,"Tufted, shortly rhizomatous",p
+8 Days,Austrostipa rudis ssp rudis,Pooideae,Stipeae,2,72,73,101.39,2,NA,20.37,3.53,879,896.8,327,2.74,372.01,C3,"Tufted, shortly rhizomatous",p
+8 Days,Austrostipa rudis ssp rudis,Pooideae,Stipeae,2,61,0,0,NA,NA,31.83,1.92,879,896.8,327,2.74,372.01,C3,"Tufted, shortly rhizomatous",p
+8 Days,Austrostipa rudis ssp rudis,Pooideae,Stipeae,2,71,0,0,NA,NA,17.9,3.97,879,896.8,327,2.74,372.01,C3,"Tufted, shortly rhizomatous",p
+8 Days,Austrostipa rudis ssp rudis,Pooideae,Stipeae,2,84,0,0,NA,NA,25.78,3.26,879,896.8,327,2.74,372.01,C3,"Tufted, shortly rhizomatous",p
+8 Days,Austrostipa rudis ssp rudis,Pooideae,Stipeae,2,80,82,102.5,2,NA,35.09,2.28,879,896.8,327,2.74,372.01,C3,"Tufted, shortly rhizomatous",p
+11 Days,Austrostipa rudis ssp rudis,Pooideae,Stipeae,2,35,12,34.29,4,NA,15.6,2.24,1153,1198.25,531,2.26,460.54,C3,"Tufted, shortly rhizomatous",p
+11 Days,Austrostipa rudis ssp rudis,Pooideae,Stipeae,2,45,47,104.44,2,NA,11.46,3.93,1153,1198.25,531,2.26,460.54,C3,"Tufted, shortly rhizomatous",p
+11 Days,Austrostipa rudis ssp rudis,Pooideae,Stipeae,2,82,70,85.37,2,NA,28.73,2.85,1153,1198.25,531,2.26,460.54,C3,"Tufted, shortly rhizomatous",p
+11 Days,Austrostipa rudis ssp rudis,Pooideae,Stipeae,2,45,35,77.78,2,NA,25.78,1.75,1153,1198.25,531,2.26,460.54,C3,"Tufted, shortly rhizomatous",p
+11 Days,Austrostipa rudis ssp rudis,Pooideae,Stipeae,2,65,58,89.23,4,NA,45.84,1.42,1153,1198.25,531,2.26,460.54,C3,"Tufted, shortly rhizomatous",p
+4 Days,Austrostipa scabra spp falcata,Pooideae,Stipeae,2,88,0,0,NA,NA,31.83,2.76,2073,2256.8,757,2.98,365.17,C3,Tufted,p
+4 Days,Austrostipa scabra spp falcata,Pooideae,Stipeae,2,41,3,7.32,4,NA,17.9,2.29,2073,2256.8,757,2.98,365.17,C3,Tufted,p
+4 Days,Austrostipa scabra spp falcata,Pooideae,Stipeae,2,104,0,0,NA,NA,20.37,5.11,2073,2256.8,757,2.98,365.17,C3,Tufted,p
+4 Days,Austrostipa scabra spp falcata,Pooideae,Stipeae,2,186,0,0,NA,NA,53.79,3.46,2073,2256.8,757,2.98,365.17,C3,Tufted,p
+4 Days,Austrostipa scabra spp falcata,Pooideae,Stipeae,2,10,0,0,NA,NA,9.63,1.04,2073,2256.8,757,2.98,365.17,C3,Tufted,p
+8 Days,Austrostipa scabra spp falcata,Pooideae,Stipeae,2,74,130,175.68,2,NA,23,3.22,1865,1916.93,774,2.48,415.01,C3,Tufted,p
+8 Days,Austrostipa scabra spp falcata,Pooideae,Stipeae,2,110,63,57.27,2,NA,20.37,5.4,1865,1916.93,774,2.48,415.01,C3,Tufted,p
+8 Days,Austrostipa scabra spp falcata,Pooideae,Stipeae,2,66,61,92.42,2,NA,20.37,3.24,1865,1916.93,774,2.48,415.01,C3,Tufted,p
+8 Days,Austrostipa scabra spp falcata,Pooideae,Stipeae,2,70,45,64.29,4,NA,25.78,2.71,1865,1916.93,774,2.48,415.01,C3,Tufted,p
+8 Days,Austrostipa scabra spp falcata,Pooideae,Stipeae,2,27,0,0,NA,NA,9.63,2.8,1865,1916.93,774,2.48,415.01,C3,Tufted,p
+11 Days,Austrostipa scabra spp falcata,Pooideae,Stipeae,2,45,31,68.89,4,NA,25.78,1.75,1553,2026.57,634,3.2,408.24,C3,Tufted,p
+11 Days,Austrostipa scabra spp falcata,Pooideae,Stipeae,2,90,79,87.78,4,NA,25.78,3.49,1553,2026.57,634,3.2,408.24,C3,Tufted,p
+11 Days,Austrostipa scabra spp falcata,Pooideae,Stipeae,2,55,39,70.91,2,NA,17.9,3.07,1553,2026.57,634,3.2,408.24,C3,Tufted,p
+11 Days,Austrostipa scabra spp falcata,Pooideae,Stipeae,2,62,58,93.55,4,NA,20.37,3.04,1553,2026.57,634,3.2,408.24,C3,Tufted,p
+11 Days,Austrostipa scabra spp falcata,Pooideae,Stipeae,2,73,89,121.92,6,NA,23,3.17,1553,2026.57,634,3.2,408.24,C3,Tufted,p
+4 Days,Bothriochloa macra,Panicoideae,Andropogoneae,12,48,42,87.5,4,7,15.6,3.08,869,1702,230,7.4,264.67,C4,Rhizomatous,p
+4 Days,Bothriochloa macra,Panicoideae,Andropogoneae,12,40,27,67.5,8,6,17.9,2.23,869,1702,230,7.4,264.67,C4,Rhizomatous,p
+4 Days,Bothriochloa macra,Panicoideae,Andropogoneae,12,54,31,57.41,4,8,71.62,0.75,869,1702,230,7.4,264.67,C4,Rhizomatous,p
+4 Days,Bothriochloa macra,Panicoideae,Andropogoneae,12,39,0,0,NA,NA,62.39,0.63,869,1702,230,7.4,264.67,C4,Rhizomatous,p
+4 Days,Bothriochloa macra,Panicoideae,Andropogoneae,12,37,31,83.78,8,7,25.78,1.44,869,1702,230,7.4,264.67,C4,Rhizomatous,p
+8 Days,Bothriochloa macra,Panicoideae,Andropogoneae,12,51,62,121.57,6,7,42.1,1.21,727,1718.67,187,9.19,257.22,C4,Rhizomatous,p
+8 Days,Bothriochloa macra,Panicoideae,Andropogoneae,12,41,2,4.88,8,NA,31.83,1.29,727,1718.67,187,9.19,257.22,C4,Rhizomatous,p
+8 Days,Bothriochloa macra,Panicoideae,Andropogoneae,12,46,61,132.61,4,7,31.83,1.45,727,1718.67,187,9.19,257.22,C4,Rhizomatous,p
+8 Days,Bothriochloa macra,Panicoideae,Andropogoneae,12,38,0,0,NA,NA,23,1.65,727,1718.67,187,9.19,257.22,C4,Rhizomatous,p
+8 Days,Bothriochloa macra,Panicoideae,Andropogoneae,12,48,21,43.75,8,7,42.1,1.14,727,1718.67,187,9.19,257.22,C4,Rhizomatous,p
+11 Days,Bothriochloa macra,Panicoideae,Andropogoneae,12,41,33,80.49,8,7,28.73,1.43,613,1433.69,211,6.79,344.21,C4,Rhizomatous,p
+11 Days,Bothriochloa macra,Panicoideae,Andropogoneae,12,33,51,154.55,6,7,71.62,0.46,613,1433.69,211,6.79,344.21,C4,Rhizomatous,p
+11 Days,Bothriochloa macra,Panicoideae,Andropogoneae,12,41,24,58.54,6,NA,25.78,1.59,613,1433.69,211,6.79,344.21,C4,Rhizomatous,p
+11 Days,Bothriochloa macra,Panicoideae,Andropogoneae,12,47,47,100,6,6,53.79,0.87,613,1433.69,211,6.79,344.21,C4,Rhizomatous,p
+11 Days,Bothriochloa macra,Panicoideae,Andropogoneae,12,43,19,44.19,6,8,28.73,1.5,613,1433.69,211,6.79,344.21,C4,Rhizomatous,p
+4 Days,Chloris truncata,Chloridoideae,Cynodonteae,9,100,8,8,6,6,86.66,1.15,1351,1644,415,3.96,307.18,C4,Tufted,p
+4 Days,Chloris truncata,Chloridoideae,Cynodonteae,9,100,34,34,4,6,58.01,1.72,1351,1644,415,3.96,307.18,C4,Tufted,p
+4 Days,Chloris truncata,Chloridoideae,Cynodonteae,9,117,4,3.42,4,NA,49.74,2.35,1351,1644,415,3.96,307.18,C4,Tufted,p
+4 Days,Chloris truncata,Chloridoideae,Cynodonteae,9,45,17,37.78,4,NA,127.32,0.35,1351,1644,415,3.96,307.18,C4,Tufted,p
+4 Days,Chloris truncata,Chloridoideae,Cynodonteae,9,125,22,17.6,4,5,58.01,2.15,1351,1644,415,3.96,307.18,C4,Tufted,p
+8 Days,Chloris truncata,Chloridoideae,Cynodonteae,9,106,48,45.28,2,5,103.13,1.03,806,1578.86,224,7.05,277.92,C4,Tufted,p
+8 Days,Chloris truncata,Chloridoideae,Cynodonteae,9,98,65,66.33,2,6,91.99,1.07,806,1578.86,224,7.05,277.92,C4,Tufted,p
+8 Days,Chloris truncata,Chloridoideae,Cynodonteae,9,117,41,35.04,4,5,108.94,1.07,806,1578.86,224,7.05,277.92,C4,Tufted,p
+8 Days,Chloris truncata,Chloridoideae,Cynodonteae,9,110,50,45.45,2,6,103.13,1.07,806,1578.86,224,7.05,277.92,C4,Tufted,p
+8 Days,Chloris truncata,Chloridoideae,Cynodonteae,9,100,14,14,4,6,86.66,1.15,806,1578.86,224,7.05,277.92,C4,Tufted,p
+11 Days,Chloris truncata,Chloridoideae,Cynodonteae,9,54,53,98.15,4,5,81.49,0.66,752,1307.56,222,5.89,295.21,C4,Tufted,p
+11 Days,Chloris truncata,Chloridoideae,Cynodonteae,9,119,48,40.34,2,6,31.83,3.74,752,1307.56,222,5.89,295.21,C4,Tufted,p
+11 Days,Chloris truncata,Chloridoideae,Cynodonteae,9,71,37,52.11,2,5,91.99,0.77,752,1307.56,222,5.89,295.21,C4,Tufted,p
+11 Days,Chloris truncata,Chloridoideae,Cynodonteae,9,55,54,98.18,2,4,81.49,0.67,752,1307.56,222,5.89,295.21,C4,Tufted,p
+11 Days,Chloris truncata,Chloridoideae,Cynodonteae,9,89,81,91.01,4,6,42.1,2.11,752,1307.56,222,5.89,295.21,C4,Tufted,p
+4 Days,Cymbopogon refractus,Panicoideae,Andropogoneae,12,128,76,59.38,4,10,35.09,3.65,1460,2180.07,423,5.15,289.73,C4,Tufted,p
+4 Days,Cymbopogon refractus,Panicoideae,Andropogoneae,12,123,11,8.94,4,NA,31.83,3.86,1460,2180.07,423,5.15,289.73,C4,Tufted,p
+4 Days,Cymbopogon refractus,Panicoideae,Andropogoneae,12,120,28,23.33,4,NA,31.83,3.77,1460,2180.07,423,5.15,289.73,C4,Tufted,p
+4 Days,Cymbopogon refractus,Panicoideae,Andropogoneae,12,103,38,36.89,4,NA,23,4.48,1460,2180.07,423,5.15,289.73,C4,Tufted,p
+4 Days,Cymbopogon refractus,Panicoideae,Andropogoneae,12,106,14,13.21,4,NA,25.78,4.11,1460,2180.07,423,5.15,289.73,C4,Tufted,p
+8 Days,Cymbopogon refractus,Panicoideae,Andropogoneae,12,80,19,23.75,4,NA,31.83,2.51,824,1838.74,310,5.93,376.21,C4,Tufted,p
+8 Days,Cymbopogon refractus,Panicoideae,Andropogoneae,12,116,80,68.97,2,NA,31.83,3.64,824,1838.74,310,5.93,376.21,C4,Tufted,p
+8 Days,Cymbopogon refractus,Panicoideae,Andropogoneae,12,79,59,74.68,4,NA,25.78,3.06,824,1838.74,310,5.93,376.21,C4,Tufted,p
+8 Days,Cymbopogon refractus,Panicoideae,Andropogoneae,12,109,27,24.77,4,11,28.73,3.79,824,1838.74,310,5.93,376.21,C4,Tufted,p
+8 Days,Cymbopogon refractus,Panicoideae,Andropogoneae,12,69,34,49.28,2,11,25.78,2.68,824,1838.74,310,5.93,376.21,C4,Tufted,p
+11 Days,Cymbopogon refractus,Panicoideae,Andropogoneae,12,92,91,98.91,6,11,23,4,819,1778.02,307,5.79,374.85,C4,Tufted,p
+11 Days,Cymbopogon refractus,Panicoideae,Andropogoneae,12,120,47,39.17,4,NA,31.83,3.77,819,1778.02,307,5.79,374.85,C4,Tufted,p
+11 Days,Cymbopogon refractus,Panicoideae,Andropogoneae,12,83,84,101.2,2,NA,25.78,3.22,819,1778.02,307,5.79,374.85,C4,Tufted,p
+11 Days,Cymbopogon refractus,Panicoideae,Andropogoneae,12,39,34,87.18,4,NA,28.73,1.36,819,1778.02,307,5.79,374.85,C4,Tufted,p
+11 Days,Cymbopogon refractus,Panicoideae,Andropogoneae,12,52,68,130.77,4,11,17.9,2.9,819,1778.02,307,5.79,374.85,C4,Tufted,p
+4 Days,Digitaria brownii,Panicoideae,Paniceae,13,121,74,61.16,4,6,23,5.26,353,672.69,96,7.01,271.95,C4,Rhizomatous,p
+4 Days,Digitaria brownii,Panicoideae,Paniceae,13,154,73,47.4,6,6,28.73,5.36,353,672.69,96,7.01,271.95,C4,Rhizomatous,p
+4 Days,Digitaria brownii,Panicoideae,Paniceae,13,203,64,31.53,4,8,31.83,6.38,353,672.69,96,7.01,271.95,C4,Rhizomatous,p
+4 Days,Digitaria brownii,Panicoideae,Paniceae,13,125,72,57.6,4,6,49.74,2.51,353,672.69,96,7.01,271.95,C4,Rhizomatous,p
+4 Days,Digitaria brownii,Panicoideae,Paniceae,13,137,82,59.85,4,6,35.09,3.9,353,672.69,96,7.01,271.95,C4,Rhizomatous,p
+8 Days,Digitaria brownii,Panicoideae,Paniceae,13,151,111,73.51,4,6,31.83,4.74,305,663.39,87,7.63,285.25,C4,Rhizomatous,p
+8 Days,Digitaria brownii,Panicoideae,Paniceae,13,161,149,92.55,2,6,31.83,5.06,305,663.39,87,7.63,285.25,C4,Rhizomatous,p
+8 Days,Digitaria brownii,Panicoideae,Paniceae,13,106,81,76.42,4,7,23,4.61,305,663.39,87,7.63,285.25,C4,Rhizomatous,p
+8 Days,Digitaria brownii,Panicoideae,Paniceae,13,164,105,64.02,4,7,35.09,4.67,305,663.39,87,7.63,285.25,C4,Rhizomatous,p
+8 Days,Digitaria brownii,Panicoideae,Paniceae,13,160,66,41.25,2,7,28.73,5.57,305,663.39,87,7.63,285.25,C4,Rhizomatous,p
+11 Days,Digitaria brownii,Panicoideae,Paniceae,13,126,81,64.29,6,6,38.52,3.27,315,687.51,111,6.19,352.38,C4,Rhizomatous,p
+11 Days,Digitaria brownii,Panicoideae,Paniceae,13,178,119,66.85,4,6,28.73,6.2,315,687.51,111,6.19,352.38,C4,Rhizomatous,p
+11 Days,Digitaria brownii,Panicoideae,Paniceae,13,126,75,59.52,2,7,17.9,7.04,315,687.51,111,6.19,352.38,C4,Rhizomatous,p
+11 Days,Digitaria brownii,Panicoideae,Paniceae,13,131,98,74.81,6,6,35.09,3.73,315,687.51,111,6.19,352.38,C4,Rhizomatous,p
+11 Days,Digitaria brownii,Panicoideae,Paniceae,13,155,97,62.58,6,7,23,6.74,315,687.51,111,6.19,352.38,C4,Rhizomatous,p
+4 Days,Deschampsia cespitosa,Pooideae,Poeae,1,47,28,59.57,2,NA,49.74,0.94,4696,5031.89,1910,2.63,406.73,C3,Tufted,p
+4 Days,Deschampsia cespitosa,Pooideae,Poeae,1,30,35,116.67,2,NA,17.9,1.68,4696,5031.89,1910,2.63,406.73,C3,Tufted,p
+4 Days,Deschampsia cespitosa,Pooideae,Poeae,1,54,27,50,4,NA,28.73,1.88,4696,5031.89,1910,2.63,406.73,C3,Tufted,p
+4 Days,Deschampsia cespitosa,Pooideae,Poeae,1,52,37,71.15,2,NA,15.6,3.33,4696,5031.89,1910,2.63,406.73,C3,Tufted,p
+4 Days,Deschampsia cespitosa,Pooideae,Poeae,1,36,23,63.89,4,NA,38.52,0.93,4696,5031.89,1910,2.63,406.73,C3,Tufted,p
+8 Days,Deschampsia cespitosa,Pooideae,Poeae,1,31,61,196.77,2,10,25.78,1.2,3236,3698.84,871,4.25,269.16,C3,Tufted,p
+8 Days,Deschampsia cespitosa,Pooideae,Poeae,1,63,37,58.73,2,9,23,2.74,3236,3698.84,871,4.25,269.16,C3,Tufted,p
+8 Days,Deschampsia cespitosa,Pooideae,Poeae,1,39,64,164.1,2,NA,31.83,1.23,3236,3698.84,871,4.25,269.16,C3,Tufted,p
+8 Days,Deschampsia cespitosa,Pooideae,Poeae,1,40,30,75,2,NA,28.73,1.39,3236,3698.84,871,4.25,269.16,C3,Tufted,p
+8 Days,Deschampsia cespitosa,Pooideae,Poeae,1,40,49,122.5,2,NA,17.9,2.23,3236,3698.84,871,4.25,269.16,C3,Tufted,p
+11 Days,Deschampsia cespitosa,Pooideae,Poeae,1,58,48,82.76,4,NA,20.37,2.85,2620,3234.33,1025,3.16,391.22,C3,Tufted,p
+11 Days,Deschampsia cespitosa,Pooideae,Poeae,1,26,51,196.15,2,NA,20.37,1.28,2620,3234.33,1025,3.16,391.22,C3,Tufted,p
+11 Days,Deschampsia cespitosa,Pooideae,Poeae,1,31,48,154.84,2,NA,28.73,1.08,2620,3234.33,1025,3.16,391.22,C3,Tufted,p
+11 Days,Deschampsia cespitosa,Pooideae,Poeae,1,35,56,160,2,NA,23,1.52,2620,3234.33,1025,3.16,391.22,C3,Tufted,p
+11 Days,Deschampsia cespitosa,Pooideae,Poeae,1,41,60,146.34,2,NA,31.83,1.29,2620,3234.33,1025,3.16,391.22,C3,Tufted,p
+4 Days,Distichlis distichophylla,Chloridoideae,Cynodonteae,9,81,46,56.79,6,NA,76.47,1.06,325,602.62,110,5.48,338.46,C4,Rhizomatous,p
+4 Days,Distichlis distichophylla,Chloridoideae,Cynodonteae,9,36,8,22.22,4,NA,31.83,1.13,325,602.62,110,5.48,338.46,C4,Rhizomatous,p
+4 Days,Distichlis distichophylla,Chloridoideae,Cynodonteae,9,38,40,105.26,4,NA,103.13,0.37,325,602.62,110,5.48,338.46,C4,Rhizomatous,p
+4 Days,Distichlis distichophylla,Chloridoideae,Cynodonteae,9,45,49,108.89,4,6,121.04,0.37,325,602.62,110,5.48,338.46,C4,Rhizomatous,p
+4 Days,Distichlis distichophylla,Chloridoideae,Cynodonteae,9,48,48,100,4,NA,25.78,1.86,325,602.62,110,5.48,338.46,C4,Rhizomatous,p
+8 Days,Distichlis distichophylla,Chloridoideae,Cynodonteae,9,28,30,107.14,6,NA,175.79,0.16,250,612.28,83,7.38,332,C4,Rhizomatous,p
+8 Days,Distichlis distichophylla,Chloridoideae,Cynodonteae,9,33,32,96.97,4,NA,86.66,0.38,250,612.28,83,7.38,332,C4,Rhizomatous,p
+8 Days,Distichlis distichophylla,Chloridoideae,Cynodonteae,9,39,75,192.31,6,NA,133.77,0.29,250,612.28,83,7.38,332,C4,Rhizomatous,p
+8 Days,Distichlis distichophylla,Chloridoideae,Cynodonteae,9,40,59,147.5,6,NA,108.94,0.37,250,612.28,83,7.38,332,C4,Rhizomatous,p
+8 Days,Distichlis distichophylla,Chloridoideae,Cynodonteae,9,44,37,84.09,4,NA,127.32,0.35,250,612.28,83,7.38,332,C4,Rhizomatous,p
+11 Days,Distichlis distichophylla,Chloridoideae,Cynodonteae,9,41,50,121.95,6,NA,168.39,0.24,241,532.93,78,6.83,323.65,C4,Rhizomatous,p
+11 Days,Distichlis distichophylla,Chloridoideae,Cynodonteae,9,57,62,108.77,4,NA,81.49,0.7,241,532.93,78,6.83,323.65,C4,Rhizomatous,p
+11 Days,Distichlis distichophylla,Chloridoideae,Cynodonteae,9,39,21,53.85,4,NA,140.37,0.28,241,532.93,78,6.83,323.65,C4,Rhizomatous,p
+11 Days,Distichlis distichophylla,Chloridoideae,Cynodonteae,9,62,50,80.65,8,NA,121.04,0.51,241,532.93,78,6.83,323.65,C4,Rhizomatous,p
+11 Days,Distichlis distichophylla,Chloridoideae,Cynodonteae,9,40,41,102.5,6,NA,17.9,2.23,241,532.93,78,6.83,323.65,C4,Rhizomatous,p
+4 Days,Dryopoa  dives,Pooideae,Poeae,1,30,0,0,NA,NA,31.83,0.94,15365,15396.11,4985,3.09,324.44,C3,Tufted,a/b
+4 Days,Dryopoa  dives,Pooideae,Poeae,1,29,0,0,NA,NA,28.73,1.01,15365,15396.11,4985,3.09,324.44,C3,Tufted,a/b
+4 Days,Dryopoa  dives,Pooideae,Poeae,1,54,0,0,NA,NA,23,2.35,15365,15396.11,4985,3.09,324.44,C3,Tufted,a/b
+4 Days,Dryopoa  dives,Pooideae,Poeae,1,53,14,26.42,6,NA,53.79,0.99,15365,15396.11,4985,3.09,324.44,C3,Tufted,a/b
+4 Days,Dryopoa  dives,Pooideae,Poeae,1,44,0,0,NA,NA,38.52,1.14,15365,15396.11,4985,3.09,324.44,C3,Tufted,a/b
+8 Days,Dryopoa  dives,Pooideae,Poeae,1,30,0,0,NA,NA,25.78,1.16,7714,5923.76,1465,4.04,189.91,C3,Tufted,a/b
+8 Days,Dryopoa  dives,Pooideae,Poeae,1,25,0,0,NA,NA,38.52,0.65,7714,5923.76,1465,4.04,189.91,C3,Tufted,a/b
+8 Days,Dryopoa  dives,Pooideae,Poeae,1,34,0,0,NA,NA,13.45,2.53,7714,5923.76,1465,4.04,189.91,C3,Tufted,a/b
+8 Days,Dryopoa  dives,Pooideae,Poeae,1,41,0,0,NA,NA,38.52,1.06,7714,5923.76,1465,4.04,189.91,C3,Tufted,a/b
+8 Days,Dryopoa  dives,Pooideae,Poeae,1,38,0,0,NA,NA,23,1.65,7714,5923.76,1465,4.04,189.91,C3,Tufted,a/b
+11 Days,Dryopoa  dives,Pooideae,Poeae,1,20,0,0,NA,NA,15.6,1.28,4606,5099.77,1498,3.4,325.23,C3,Tufted,a/b
+11 Days,Dryopoa  dives,Pooideae,Poeae,1,22,0,0,NA,NA,17.9,1.23,4606,5099.77,1498,3.4,325.23,C3,Tufted,a/b
+11 Days,Dryopoa  dives,Pooideae,Poeae,1,29,0,0,NA,NA,23,1.26,4606,5099.77,1498,3.4,325.23,C3,Tufted,a/b
+11 Days,Dryopoa  dives,Pooideae,Poeae,1,24,0,0,NA,NA,28.73,0.84,4606,5099.77,1498,3.4,325.23,C3,Tufted,a/b
+11 Days,Dryopoa  dives,Pooideae,Poeae,1,33,0,0,NA,NA,28.73,1.15,4606,5099.77,1498,3.4,325.23,C3,Tufted,a/b
+4 Days,Dichelachne siebriana,Pooideae,Poeae,1,26,0,0,NA,NA,20.37,1.28,757,894.95,327,2.74,431.97,C3,Tufted,p
+4 Days,Dichelachne siebriana,Pooideae,Poeae,1,8,0,0,NA,NA,11.46,0.7,757,894.95,327,2.74,431.97,C3,Tufted,p
+4 Days,Dichelachne siebriana,Pooideae,Poeae,1,14,0,0,NA,NA,38.52,0.36,757,894.95,327,2.74,431.97,C3,Tufted,p
+4 Days,Dichelachne siebriana,Pooideae,Poeae,1,17,0,0,NA,NA,15.6,1.09,757,894.95,327,2.74,431.97,C3,Tufted,p
+4 Days,Dichelachne siebriana,Pooideae,Poeae,1,3,0,0,NA,NA,15.6,0.19,757,894.95,327,2.74,431.97,C3,Tufted,p
+8 Days,Dichelachne siebriana,Pooideae,Poeae,1,35,0,0,NA,NA,15.6,2.24,801,1022.29,270,3.79,337.08,C3,Tufted,p
+8 Days,Dichelachne siebriana,Pooideae,Poeae,1,26,0,0,NA,NA,20.37,1.28,801,1022.29,270,3.79,337.08,C3,Tufted,p
+8 Days,Dichelachne siebriana,Pooideae,Poeae,1,33,0,0,NA,NA,25.78,1.28,801,1022.29,270,3.79,337.08,C3,Tufted,p
+8 Days,Dichelachne siebriana,Pooideae,Poeae,1,39,0,0,NA,NA,20.37,1.91,801,1022.29,270,3.79,337.08,C3,Tufted,p
+8 Days,Dichelachne siebriana,Pooideae,Poeae,1,23,0,0,NA,NA,13.45,1.71,801,1022.29,270,3.79,337.08,C3,Tufted,p
+11 Days,Dichelachne siebriana,Pooideae,Poeae,1,26,0,0,NA,NA,38.52,0.68,472,658.52,153,4.3,324.15,C3,Tufted,p
+11 Days,Dichelachne siebriana,Pooideae,Poeae,1,16,0,0,NA,NA,17.9,0.89,472,658.52,153,4.3,324.15,C3,Tufted,p
+11 Days,Dichelachne siebriana,Pooideae,Poeae,1,29,0,0,NA,NA,25.78,1.12,472,658.52,153,4.3,324.15,C3,Tufted,p
+11 Days,Dichelachne siebriana,Pooideae,Poeae,1,21,0,0,NA,NA,23,0.91,472,658.52,153,4.3,324.15,C3,Tufted,p
+11 Days,Dichelachne siebriana,Pooideae,Poeae,1,30,0,0,NA,NA,25.78,1.16,472,658.52,153,4.3,324.15,C3,Tufted,p
+4 Days,Deyeuxia quadriseta,Pooideae,Poeae,1,77,37,48.05,4,NA,49.74,1.55,953,1440.15,290,4.97,304.3,C3,Tufted,p
+4 Days,Deyeuxia quadriseta,Pooideae,Poeae,1,42,6,14.29,4,NA,23,1.83,953,1440.15,290,4.97,304.3,C3,Tufted,p
+4 Days,Deyeuxia quadriseta,Pooideae,Poeae,1,5,0,0,NA,NA,7.96,0.63,953,1440.15,290,4.97,304.3,C3,Tufted,p
+4 Days,Deyeuxia quadriseta,Pooideae,Poeae,1,94,31,32.98,4,NA,62.39,1.51,953,1440.15,290,4.97,304.3,C3,Tufted,p
+4 Days,Deyeuxia quadriseta,Pooideae,Poeae,1,49,29,59.18,4,NA,17.9,2.74,953,1440.15,290,4.97,304.3,C3,Tufted,p
+8 Days,Deyeuxia quadriseta,Pooideae,Poeae,1,90,85,94.44,4,NA,71.62,1.26,770,1390.43,260,5.35,337.66,C3,Tufted,p
+8 Days,Deyeuxia quadriseta,Pooideae,Poeae,1,49,6,12.24,4,NA,31.83,1.54,770,1390.43,260,5.35,337.66,C3,Tufted,p
+8 Days,Deyeuxia quadriseta,Pooideae,Poeae,1,43,10,23.26,4,NA,23,1.87,770,1390.43,260,5.35,337.66,C3,Tufted,p
+8 Days,Deyeuxia quadriseta,Pooideae,Poeae,1,79,56,70.89,6,NA,25.78,3.06,770,1390.43,260,5.35,337.66,C3,Tufted,p
+8 Days,Deyeuxia quadriseta,Pooideae,Poeae,1,48,25,52.08,4,NA,23,2.09,770,1390.43,260,5.35,337.66,C3,Tufted,p
+11 Days,Deyeuxia quadriseta,Pooideae,Poeae,1,53,25,47.17,4,NA,31.83,1.67,751,1757.66,321,5.48,427.43,C3,Tufted,p
+11 Days,Deyeuxia quadriseta,Pooideae,Poeae,1,37,31,83.78,4,NA,31.83,1.16,751,1757.66,321,5.48,427.43,C3,Tufted,p
+11 Days,Deyeuxia quadriseta,Pooideae,Poeae,1,31,20,64.52,2,NA,20.37,1.52,751,1757.66,321,5.48,427.43,C3,Tufted,p
+11 Days,Deyeuxia quadriseta,Pooideae,Poeae,1,37,50,135.14,6,NA,71.62,0.52,751,1757.66,321,5.48,427.43,C3,Tufted,p
+11 Days,Deyeuxia quadriseta,Pooideae,Poeae,1,49,11,22.45,6,NA,23,2.13,751,1757.66,321,5.48,427.43,C3,Tufted,p
+4 Days,Dichanthium sericeum,Panicoideae,Andropogoneae,12,69,54,78.26,4,7,15.6,4.42,958,1745,267,6.54,278.71,C4,Tufted,p
+4 Days,Dichanthium sericeum,Panicoideae,Andropogoneae,12,71,36,50.7,6,7,15.6,4.55,958,1745,267,6.54,278.71,C4,Tufted,p
+4 Days,Dichanthium sericeum,Panicoideae,Andropogoneae,12,68,3,4.41,4,10,20.37,3.34,958,1745,267,6.54,278.71,C4,Tufted,p
+4 Days,Dichanthium sericeum,Panicoideae,Andropogoneae,12,75,48,64,4,6,13.45,5.58,958,1745,267,6.54,278.71,C4,Tufted,p
+4 Days,Dichanthium sericeum,Panicoideae,Andropogoneae,12,48,38,79.17,4,7,17.9,2.68,958,1745,267,6.54,278.71,C4,Tufted,p
+8 Days,Dichanthium sericeum,Panicoideae,Andropogoneae,12,76,110,144.74,4,8,17.9,4.24,866,1994.21,237,8.41,273.67,C4,Tufted,p
+8 Days,Dichanthium sericeum,Panicoideae,Andropogoneae,12,60,110,183.33,4,7,15.6,3.85,866,1994.21,237,8.41,273.67,C4,Tufted,p
+8 Days,Dichanthium sericeum,Panicoideae,Andropogoneae,12,74,60,81.08,4,7,17.9,4.13,866,1994.21,237,8.41,273.67,C4,Tufted,p
+8 Days,Dichanthium sericeum,Panicoideae,Andropogoneae,12,59,0,0,NA,NA,15.6,3.78,866,1994.21,237,8.41,273.67,C4,Tufted,p
+8 Days,Dichanthium sericeum,Panicoideae,Andropogoneae,12,63,38,60.32,6,7,13.45,4.68,866,1994.21,237,8.41,273.67,C4,Tufted,p
+11 Days,Dichanthium sericeum,Panicoideae,Andropogoneae,12,43,42,97.67,6,7,28.73,1.5,841,1795.44,312,5.75,370.99,C4,Tufted,p
+11 Days,Dichanthium sericeum,Panicoideae,Andropogoneae,12,34,53,155.88,4,7,11.46,2.97,841,1795.44,312,5.75,370.99,C4,Tufted,p
+11 Days,Dichanthium sericeum,Panicoideae,Andropogoneae,12,40,50,125,2,NA,9.63,4.15,841,1795.44,312,5.75,370.99,C4,Tufted,p
+11 Days,Dichanthium sericeum,Panicoideae,Andropogoneae,12,46,42,91.3,6,7,13.45,3.42,841,1795.44,312,5.75,370.99,C4,Tufted,p
+11 Days,Dichanthium sericeum,Panicoideae,Andropogoneae,12,56,67,119.64,6,NA,15.6,3.59,841,1795.44,312,5.75,370.99,C4,Tufted,p
+4 Days,Eulalia aurea,Panicoideae,Andropogoneae,12,81,57,70.37,4,7,66.92,1.21,818,1585.7,260,6.1,317.85,C4,Rhizomatous,p
+4 Days,Eulalia aurea,Panicoideae,Andropogoneae,12,109,87,79.82,4,6,31.83,3.42,818,1585.7,260,6.1,317.85,C4,Rhizomatous,p
+4 Days,Eulalia aurea,Panicoideae,Andropogoneae,12,110,51,46.36,2,6,23,4.78,818,1585.7,260,6.1,317.85,C4,Rhizomatous,p
+4 Days,Eulalia aurea,Panicoideae,Andropogoneae,12,80,39,48.75,2,6,23,3.48,818,1585.7,260,6.1,317.85,C4,Rhizomatous,p
+4 Days,Eulalia aurea,Panicoideae,Andropogoneae,12,138,51,36.96,6,7,35.09,3.93,818,1585.7,260,6.1,317.85,C4,Rhizomatous,p
+8 Days,Eulalia aurea,Panicoideae,Andropogoneae,12,74,75,101.35,2,6,15.6,4.74,760,1609.33,234,6.88,307.89,C4,Rhizomatous,p
+8 Days,Eulalia aurea,Panicoideae,Andropogoneae,12,99,84,84.85,2,7,38.52,2.57,760,1609.33,234,6.88,307.89,C4,Rhizomatous,p
+8 Days,Eulalia aurea,Panicoideae,Andropogoneae,12,73,78,106.85,2,7,35.09,2.08,760,1609.33,234,6.88,307.89,C4,Rhizomatous,p
+8 Days,Eulalia aurea,Panicoideae,Andropogoneae,12,97,52,53.61,2,7,38.52,2.52,760,1609.33,234,6.88,307.89,C4,Rhizomatous,p
+8 Days,Eulalia aurea,Panicoideae,Andropogoneae,12,91,44,48.35,2,7,76.47,1.19,760,1609.33,234,6.88,307.89,C4,Rhizomatous,p
+11 Days,Eulalia aurea,Panicoideae,Andropogoneae,12,132,93,70.45,6,7,38.52,3.43,648,1317.12,214,6.15,330.25,C4,Rhizomatous,p
+11 Days,Eulalia aurea,Panicoideae,Andropogoneae,12,98,87,88.78,4,7,31.83,3.08,648,1317.12,214,6.15,330.25,C4,Rhizomatous,p
+11 Days,Eulalia aurea,Panicoideae,Andropogoneae,12,57,71,124.56,2,NA,23,2.48,648,1317.12,214,6.15,330.25,C4,Rhizomatous,p
+11 Days,Eulalia aurea,Panicoideae,Andropogoneae,12,90,99,110,4,6,28.73,3.13,648,1317.12,214,6.15,330.25,C4,Rhizomatous,p
+11 Days,Eulalia aurea,Panicoideae,Andropogoneae,12,98,113,115.31,4,7,28.73,3.41,648,1317.12,214,6.15,330.25,C4,Rhizomatous,p
+4 Days,Eragrostis brownii,Chloridoideae,Eragrostideae,11,281,87,30.96,4,7,23,12.22,685,1051.17,217,4.84,316.79,C4,Tufted,p
+4 Days,Eragrostis brownii,Chloridoideae,Eragrostideae,11,230,40,17.39,4,6,20.37,11.29,685,1051.17,217,4.84,316.79,C4,Tufted,p
+4 Days,Eragrostis brownii,Chloridoideae,Eragrostideae,11,288,76,26.39,2,7,35.09,8.21,685,1051.17,217,4.84,316.79,C4,Tufted,p
+4 Days,Eragrostis brownii,Chloridoideae,Eragrostideae,11,243,109,44.86,2,6,28.73,8.46,685,1051.17,217,4.84,316.79,C4,Tufted,p
+4 Days,Eragrostis brownii,Chloridoideae,Eragrostideae,11,234,60,25.64,4,7,31.83,7.35,685,1051.17,217,4.84,316.79,C4,Tufted,p
+8 Days,Eragrostis brownii,Chloridoideae,Eragrostideae,11,202,136,67.33,2,7,31.83,6.35,508,1317.54,170,7.75,334.65,C4,Tufted,p
+8 Days,Eragrostis brownii,Chloridoideae,Eragrostideae,11,384,128,33.33,2,7,49.74,7.72,508,1317.54,170,7.75,334.65,C4,Tufted,p
+8 Days,Eragrostis brownii,Chloridoideae,Eragrostideae,11,230,109,47.39,2,6,31.83,7.23,508,1317.54,170,7.75,334.65,C4,Tufted,p
+8 Days,Eragrostis brownii,Chloridoideae,Eragrostideae,11,147,97,65.99,2,7,31.83,4.62,508,1317.54,170,7.75,334.65,C4,Tufted,p
+8 Days,Eragrostis brownii,Chloridoideae,Eragrostideae,11,219,100,45.66,2,7,31.83,6.88,508,1317.54,170,7.75,334.65,C4,Tufted,p
+11 Days,Eragrostis brownii,Chloridoideae,Eragrostideae,11,132,123,93.18,4,7,49.74,2.65,469,1128.2,183,6.17,390.19,C4,Tufted,p
+11 Days,Eragrostis brownii,Chloridoideae,Eragrostideae,11,128,133,103.91,2,7,31.83,4.02,469,1128.2,183,6.17,390.19,C4,Tufted,p
+11 Days,Eragrostis brownii,Chloridoideae,Eragrostideae,11,153,106,69.28,2,6,20.37,7.51,469,1128.2,183,6.17,390.19,C4,Tufted,p
+11 Days,Eragrostis brownii,Chloridoideae,Eragrostideae,11,111,103,92.79,4,6,28.73,3.86,469,1128.2,183,6.17,390.19,C4,Tufted,p
+11 Days,Eragrostis brownii,Chloridoideae,Eragrostideae,11,178,98,55.06,4,8,23,7.74,469,1128.2,183,6.17,390.19,C4,Tufted,p
+4 Days,Enneapogon nigricans,Chloridoideae,Pappophoreae,10,84,16,19.05,6,9,31.83,2.64,526,914.87,163,5.61,309.89,C4,Tufted,p
+4 Days,Enneapogon nigricans,Chloridoideae,Pappophoreae,10,88,0,0,NA,NA,23,3.83,526,914.87,163,5.61,309.89,C4,Tufted,p
+4 Days,Enneapogon nigricans,Chloridoideae,Pappophoreae,10,103,0,0,NA,NA,17.9,5.75,526,914.87,163,5.61,309.89,C4,Tufted,p
+4 Days,Enneapogon nigricans,Chloridoideae,Pappophoreae,10,87,12,13.79,6,6,20.37,4.27,526,914.87,163,5.61,309.89,C4,Tufted,p
+4 Days,Enneapogon nigricans,Chloridoideae,Pappophoreae,10,30,2,6.67,4,NA,11.46,2.62,526,914.87,163,5.61,309.89,C4,Tufted,p
+8 Days,Enneapogon nigricans,Chloridoideae,Pappophoreae,10,47,0,0,NA,NA,76.47,0.61,473,1108.61,141,7.86,298.1,C4,Tufted,p
+8 Days,Enneapogon nigricans,Chloridoideae,Pappophoreae,10,65,5,7.69,4,NA,11.46,5.67,473,1108.61,141,7.86,298.1,C4,Tufted,p
+8 Days,Enneapogon nigricans,Chloridoideae,Pappophoreae,10,47,0,0,NA,NA,11.46,4.1,473,1108.61,141,7.86,298.1,C4,Tufted,p
+8 Days,Enneapogon nigricans,Chloridoideae,Pappophoreae,10,95,35,36.84,4,9,28.73,3.31,473,1108.61,141,7.86,298.1,C4,Tufted,p
+8 Days,Enneapogon nigricans,Chloridoideae,Pappophoreae,10,66,8,12.12,6,NA,17.9,3.69,473,1108.61,141,7.86,298.1,C4,Tufted,p
+11 Days,Enneapogon nigricans,Chloridoideae,Pappophoreae,10,61,55,90.16,6,7,91.99,0.66,454,1090.32,157,6.94,345.81,C4,Tufted,p
+11 Days,Enneapogon nigricans,Chloridoideae,Pappophoreae,10,51,0,0,NA,NA,17.9,2.85,454,1090.32,157,6.94,345.81,C4,Tufted,p
+11 Days,Enneapogon nigricans,Chloridoideae,Pappophoreae,10,20,0,0,NA,NA,7.96,2.51,454,1090.32,157,6.94,345.81,C4,Tufted,p
+11 Days,Enneapogon nigricans,Chloridoideae,Pappophoreae,10,55,0,0,NA,NA,13.45,4.09,454,1090.32,157,6.94,345.81,C4,Tufted,p
+11 Days,Enneapogon nigricans,Chloridoideae,Pappophoreae,10,32,1,3.13,22,NA,11.46,2.79,454,1090.32,157,6.94,345.81,C4,Tufted,p
+4 Days,Echinopogon ovatus,Chloridoideae,Cynodonteae,9,106,105,99.06,6,9,58.01,1.83,512,1017.15,157,6.48,306.64,C4,Rhizomatous,p
+4 Days,Echinopogon ovatus,Chloridoideae,Cynodonteae,9,63,75,119.05,4,NA,45.84,1.37,512,1017.15,157,6.48,306.64,C4,Rhizomatous,p
+4 Days,Echinopogon ovatus,Chloridoideae,Cynodonteae,9,111,45,40.54,4,NA,31.83,3.49,512,1017.15,157,6.48,306.64,C4,Rhizomatous,p
+4 Days,Echinopogon ovatus,Chloridoideae,Cynodonteae,9,67,114,170.15,4,NA,91.99,0.73,512,1017.15,157,6.48,306.64,C4,Rhizomatous,p
+4 Days,Echinopogon ovatus,Chloridoideae,Cynodonteae,9,78,109,139.74,4,NA,42.1,1.85,512,1017.15,157,6.48,306.64,C4,Rhizomatous,p
+8 Days,Echinopogon ovatus,Chloridoideae,Cynodonteae,9,90,216,240,6,NA,62.39,1.44,239,695.16,63,11.03,263.6,C4,Rhizomatous,p
+8 Days,Echinopogon ovatus,Chloridoideae,Cynodonteae,9,77,174,225.97,4,NA,86.66,0.89,239,695.16,63,11.03,263.6,C4,Rhizomatous,p
+8 Days,Echinopogon ovatus,Chloridoideae,Cynodonteae,9,67,132,197.01,6,10,25.78,2.6,239,695.16,63,11.03,263.6,C4,Rhizomatous,p
+8 Days,Echinopogon ovatus,Chloridoideae,Cynodonteae,9,71,109,153.52,6,NA,86.66,0.82,239,695.16,63,11.03,263.6,C4,Rhizomatous,p
+8 Days,Echinopogon ovatus,Chloridoideae,Cynodonteae,9,88,87,98.86,4,NA,45.84,1.92,239,695.16,63,11.03,263.6,C4,Rhizomatous,p
+11 Days,Echinopogon ovatus,Chloridoideae,Cynodonteae,9,67,105,156.72,8,NA,62.39,1.07,166,508.46,50,10.17,301.2,C4,Rhizomatous,p
+11 Days,Echinopogon ovatus,Chloridoideae,Cynodonteae,9,56,63,112.5,4,NA,20.37,2.75,166,508.46,50,10.17,301.2,C4,Rhizomatous,p
+11 Days,Echinopogon ovatus,Chloridoideae,Cynodonteae,9,60,86,143.33,4,NA,42.1,1.43,166,508.46,50,10.17,301.2,C4,Rhizomatous,p
+11 Days,Echinopogon ovatus,Chloridoideae,Cynodonteae,9,44,140,318.18,8,NA,97.48,0.45,166,508.46,50,10.17,301.2,C4,Rhizomatous,p
+11 Days,Echinopogon ovatus,Chloridoideae,Cynodonteae,9,87,48,55.17,4,NA,31.83,2.73,166,508.46,50,10.17,301.2,C4,Rhizomatous,p
+4 Days,Anthosacne scabra,Pooideae,Triticeae,3,139,50,35.97,2,NA,38.52,3.61,1503,2298.65,537,4.28,357.29,C3,Tufted,p
+4 Days,Anthosacne scabra,Pooideae,Triticeae,3,118,56,47.46,2,NA,49.74,2.37,1503,2298.65,537,4.28,357.29,C3,Tufted,p
+4 Days,Anthosacne scabra,Pooideae,Triticeae,3,118,107,90.68,2,NA,49.74,2.37,1503,2298.65,537,4.28,357.29,C3,Tufted,p
+4 Days,Anthosacne scabra,Pooideae,Triticeae,3,93,62,66.67,2,NA,45.84,2.03,1503,2298.65,537,4.28,357.29,C3,Tufted,p
+4 Days,Anthosacne scabra,Pooideae,Triticeae,3,54,48,88.89,2,NA,45.84,1.18,1503,2298.65,537,4.28,357.29,C3,Tufted,p
+8 Days,Anthosacne scabra,Pooideae,Triticeae,3,58,89,153.45,2,NA,53.79,1.08,1030,1809.93,314,5.76,304.85,C3,Tufted,p
+8 Days,Anthosacne scabra,Pooideae,Triticeae,3,60,74,123.33,2,NA,133.77,0.45,1030,1809.93,314,5.76,304.85,C3,Tufted,p
+8 Days,Anthosacne scabra,Pooideae,Triticeae,3,78,85,108.97,2,NA,38.52,2.03,1030,1809.93,314,5.76,304.85,C3,Tufted,p
+8 Days,Anthosacne scabra,Pooideae,Triticeae,3,122,52,42.62,4,NA,38.52,3.17,1030,1809.93,314,5.76,304.85,C3,Tufted,p
+8 Days,Anthosacne scabra,Pooideae,Triticeae,3,86,57,66.28,2,NA,49.74,1.73,1030,1809.93,314,5.76,304.85,C3,Tufted,p
+11 Days,Anthosacne scabra,Pooideae,Triticeae,3,48,40,83.33,6,NA,71.62,0.67,661,1240.6,196,6.33,296.52,C3,Tufted,p
+11 Days,Anthosacne scabra,Pooideae,Triticeae,3,49,50,102.04,4,NA,38.52,1.27,661,1240.6,196,6.33,296.52,C3,Tufted,p
+11 Days,Anthosacne scabra,Pooideae,Triticeae,3,52,61,117.31,2,NA,49.74,1.05,661,1240.6,196,6.33,296.52,C3,Tufted,p
+11 Days,Anthosacne scabra,Pooideae,Triticeae,3,114,71,62.28,2,NA,114.91,0.99,661,1240.6,196,6.33,296.52,C3,Tufted,p
+11 Days,Anthosacne scabra,Pooideae,Triticeae,3,90,55,61.11,4,NA,42.1,2.14,661,1240.6,196,6.33,296.52,C3,Tufted,p
+4 Days,Glyceria  australis,Pooideae,Meliceae,4,51,47,92.16,6,NA,154.06,0.33,2236,2876.44,618,4.65,276.39,C3,Rhizomatous,p
+4 Days,Glyceria  australis,Pooideae,Meliceae,4,47,58,123.4,4,NA,147.14,0.32,2236,2876.44,618,4.65,276.39,C3,Rhizomatous,p
+4 Days,Glyceria  australis,Pooideae,Meliceae,4,33,30,90.91,2,NA,183.35,0.18,2236,2876.44,618,4.65,276.39,C3,Rhizomatous,p
+4 Days,Glyceria  australis,Pooideae,Meliceae,4,53,74,139.62,2,NA,191.07,0.28,2236,2876.44,618,4.65,276.39,C3,Rhizomatous,p
+4 Days,Glyceria  australis,Pooideae,Meliceae,4,48,56,116.67,4,NA,147.14,0.33,2236,2876.44,618,4.65,276.39,C3,Rhizomatous,p
+8 Days,Glyceria  australis,Pooideae,Meliceae,4,46,76,165.22,4,NA,97.48,0.47,1355,1968.52,341,5.77,251.66,C3,Rhizomatous,p
+8 Days,Glyceria  australis,Pooideae,Meliceae,4,20,41,205,2,NA,114.91,0.17,1355,1968.52,341,5.77,251.66,C3,Rhizomatous,p
+8 Days,Glyceria  australis,Pooideae,Meliceae,4,42,42,100,2,NA,240.72,0.17,1355,1968.52,341,5.77,251.66,C3,Rhizomatous,p
+8 Days,Glyceria  australis,Pooideae,Meliceae,4,38,27,71.05,2,NA,114.91,0.33,1355,1968.52,341,5.77,251.66,C3,Rhizomatous,p
+8 Days,Glyceria  australis,Pooideae,Meliceae,4,47,70,148.94,4,NA,127.32,0.37,1355,1968.52,341,5.77,251.66,C3,Rhizomatous,p
+11 Days,Glyceria  australis,Pooideae,Meliceae,4,41,50,121.95,8,NA,147.14,0.28,953,1281.29,268,4.78,281.22,C3,Rhizomatous,p
+11 Days,Glyceria  australis,Pooideae,Meliceae,4,30,45,150,2,NA,175.79,0.17,953,1281.29,268,4.78,281.22,C3,Rhizomatous,p
+11 Days,Glyceria  australis,Pooideae,Meliceae,4,26,43,165.38,4,NA,121.04,0.21,953,1281.29,268,4.78,281.22,C3,Rhizomatous,p
+11 Days,Glyceria  australis,Pooideae,Meliceae,4,33,50,151.52,4,NA,161.14,0.2,953,1281.29,268,4.78,281.22,C3,Rhizomatous,p
+11 Days,Glyceria  australis,Pooideae,Meliceae,4,51,60,117.65,4,NA,215.18,0.24,953,1281.29,268,4.78,281.22,C3,Rhizomatous,p
+4 Days,Hemarthria uncinata,Panicoideae,Andropogoneae,12,159,132,83.02,2,NA,232.05,0.69,2170,3500,613,5.71,282.49,C4,Rhizomatous,p
+4 Days,Hemarthria uncinata,Panicoideae,Andropogoneae,12,141,142,100.71,2,NA,198.94,0.71,2170,3500,613,5.71,282.49,C4,Rhizomatous,p
+4 Days,Hemarthria uncinata,Panicoideae,Andropogoneae,12,168,149,88.69,2,NA,198.94,0.84,2170,3500,613,5.71,282.49,C4,Rhizomatous,p
+4 Days,Hemarthria uncinata,Panicoideae,Andropogoneae,12,188,146,77.66,4,NA,191.07,0.98,2170,3500,613,5.71,282.49,C4,Rhizomatous,p
+4 Days,Hemarthria uncinata,Panicoideae,Andropogoneae,12,210,149,70.95,4,NA,206.98,1.01,2170,3500,613,5.71,282.49,C4,Rhizomatous,p
+8 Days,Hemarthria uncinata,Panicoideae,Andropogoneae,12,151,156,103.31,2,NA,168.39,0.9,1379,3781.75,394,9.6,285.71,C4,Rhizomatous,p
+8 Days,Hemarthria uncinata,Panicoideae,Andropogoneae,12,117,113,96.58,4,NA,286.48,0.41,1379,3781.75,394,9.6,285.71,C4,Rhizomatous,p
+8 Days,Hemarthria uncinata,Panicoideae,Andropogoneae,12,142,119,83.8,4,NA,315.84,0.45,1379,3781.75,394,9.6,285.71,C4,Rhizomatous,p
+8 Days,Hemarthria uncinata,Panicoideae,Andropogoneae,12,120,128,106.67,4,NA,206.98,0.58,1379,3781.75,394,9.6,285.71,C4,Rhizomatous,p
+8 Days,Hemarthria uncinata,Panicoideae,Andropogoneae,12,138,97,70.29,2,NA,249.56,0.55,1379,3781.75,394,9.6,285.71,C4,Rhizomatous,p
+11 Days,Hemarthria uncinata,Panicoideae,Andropogoneae,12,166,115,69.28,6,NA,183.35,0.91,1305,2043.14,418,4.89,320.31,C4,Rhizomatous,p
+11 Days,Hemarthria uncinata,Panicoideae,Andropogoneae,12,102,87,85.29,4,NA,161.14,0.63,1305,2043.14,418,4.89,320.31,C4,Rhizomatous,p
+11 Days,Hemarthria uncinata,Panicoideae,Andropogoneae,12,110,35,31.82,4,NA,191.07,0.58,1305,2043.14,418,4.89,320.31,C4,Rhizomatous,p
+11 Days,Hemarthria uncinata,Panicoideae,Andropogoneae,12,84,101,120.24,6,NA,133.77,0.63,1305,2043.14,418,4.89,320.31,C4,Rhizomatous,p
+11 Days,Hemarthria uncinata,Panicoideae,Andropogoneae,12,123,165,134.15,4,NA,305.9,0.4,1305,2043.14,418,4.89,320.31,C4,Rhizomatous,p
+4 Days,Imperata  cylindrica,Panicoideae,Andropogoneae,12,28,34,121.43,6,6,53.79,0.52,9346,9659.8,3698,2.61,395.68,C4,Rhizomatous,p
+4 Days,Imperata  cylindrica,Panicoideae,Andropogoneae,12,23,36,156.52,2,NA,45.84,0.5,9346,9659.8,3698,2.61,395.68,C4,Rhizomatous,p
+4 Days,Imperata  cylindrica,Panicoideae,Andropogoneae,12,13,5,38.46,2,6,35.09,0.37,9346,9659.8,3698,2.61,395.68,C4,Rhizomatous,p
+4 Days,Imperata  cylindrica,Panicoideae,Andropogoneae,12,20,26,130,2,6,71.62,0.28,9346,9659.8,3698,2.61,395.68,C4,Rhizomatous,p
+4 Days,Imperata  cylindrica,Panicoideae,Andropogoneae,12,18,17,94.44,2,NA,147.14,0.12,9346,9659.8,3698,2.61,395.68,C4,Rhizomatous,p
+8 Days,Imperata  cylindrica,Panicoideae,Andropogoneae,12,14,24,171.43,2,6,7.96,1.76,4624,5099.68,1422,3.59,307.53,C4,Rhizomatous,p
+8 Days,Imperata  cylindrica,Panicoideae,Andropogoneae,12,41,43,104.88,2,7,240.72,0.17,4624,5099.68,1422,3.59,307.53,C4,Rhizomatous,p
+8 Days,Imperata  cylindrica,Panicoideae,Andropogoneae,12,26,29,111.54,2,7,140.37,0.19,4624,5099.68,1422,3.59,307.53,C4,Rhizomatous,p
+8 Days,Imperata  cylindrica,Panicoideae,Andropogoneae,12,18,7,38.89,2,NA,161.14,0.11,4624,5099.68,1422,3.59,307.53,C4,Rhizomatous,p
+8 Days,Imperata  cylindrica,Panicoideae,Andropogoneae,12,30,30,100,2,6,215.18,0.14,4624,5099.68,1422,3.59,307.53,C4,Rhizomatous,p
+11 Days,Imperata  cylindrica,Panicoideae,Andropogoneae,12,18,21,116.67,6,6,103.13,0.17,7054,9181.49,2730,3.36,387.01,C4,Rhizomatous,p
+11 Days,Imperata  cylindrica,Panicoideae,Andropogoneae,12,25,33,132,2,6,76.47,0.33,7054,9181.49,2730,3.36,387.01,C4,Rhizomatous,p
+11 Days,Imperata  cylindrica,Panicoideae,Andropogoneae,12,15,20,133.33,2,5,66.92,0.22,7054,9181.49,2730,3.36,387.01,C4,Rhizomatous,p
+11 Days,Imperata  cylindrica,Panicoideae,Andropogoneae,12,21,23,109.52,4,5,103.13,0.2,7054,9181.49,2730,3.36,387.01,C4,Rhizomatous,p
+11 Days,Imperata  cylindrica,Panicoideae,Andropogoneae,12,16,21,131.25,4,6,133.77,0.12,7054,9181.49,2730,3.36,387.01,C4,Rhizomatous,p
+4 Days,Lachnagrostis filiformis,Pooideae,Poeae,1,93,88,94.62,4,10,15.6,5.96,714,1373.58,198,6.94,277.31,C3,"Tufted, shortly rhizomatous",a/b/p
+4 Days,Lachnagrostis filiformis,Pooideae,Poeae,1,64,75,117.19,2,NA,15.6,4.1,714,1373.58,198,6.94,277.31,C3,"Tufted, shortly rhizomatous",a/b/p
+4 Days,Lachnagrostis filiformis,Pooideae,Poeae,1,150,0,0,NA,NA,35.09,4.27,714,1373.58,198,6.94,277.31,C3,"Tufted, shortly rhizomatous",a/b/p
+4 Days,Lachnagrostis filiformis,Pooideae,Poeae,1,51,115,225.49,4,NA,62.39,0.82,714,1373.58,198,6.94,277.31,C3,"Tufted, shortly rhizomatous",a/b/p
+4 Days,Lachnagrostis filiformis,Pooideae,Poeae,1,58,0,0,NA,NA,28.73,2.02,714,1373.58,198,6.94,277.31,C3,"Tufted, shortly rhizomatous",a/b/p
+8 Days,Lachnagrostis filiformis,Pooideae,Poeae,1,52,0,0,NA,NA,31.83,1.63,438,1172.08,116,10.1,264.84,C3,"Tufted, shortly rhizomatous",a/b/p
+8 Days,Lachnagrostis filiformis,Pooideae,Poeae,1,45,6,13.33,4,NA,49.74,0.9,438,1172.08,116,10.1,264.84,C3,"Tufted, shortly rhizomatous",a/b/p
+8 Days,Lachnagrostis filiformis,Pooideae,Poeae,1,38,0,0,NA,NA,25.78,1.47,438,1172.08,116,10.1,264.84,C3,"Tufted, shortly rhizomatous",a/b/p
+8 Days,Lachnagrostis filiformis,Pooideae,Poeae,1,90,12,13.33,4,NA,66.92,1.34,438,1172.08,116,10.1,264.84,C3,"Tufted, shortly rhizomatous",a/b/p
+8 Days,Lachnagrostis filiformis,Pooideae,Poeae,1,16,0,0,NA,NA,25.78,0.62,438,1172.08,116,10.1,264.84,C3,"Tufted, shortly rhizomatous",a/b/p
+11 Days,Lachnagrostis filiformis,Pooideae,Poeae,1,81,0,0,NA,NA,35.09,2.31,232,539.07,71,7.59,306.03,C3,"Tufted, shortly rhizomatous",a/b/p
+11 Days,Lachnagrostis filiformis,Pooideae,Poeae,1,126,126,100,4,NA,31.83,3.96,232,539.07,71,7.59,306.03,C3,"Tufted, shortly rhizomatous",a/b/p
+11 Days,Lachnagrostis filiformis,Pooideae,Poeae,1,75,0,0,NA,NA,58.01,1.29,232,539.07,71,7.59,306.03,C3,"Tufted, shortly rhizomatous",a/b/p
+11 Days,Lachnagrostis filiformis,Pooideae,Poeae,1,67,0,0,NA,NA,13.45,4.98,232,539.07,71,7.59,306.03,C3,"Tufted, shortly rhizomatous",a/b/p
+11 Days,Lachnagrostis filiformis,Pooideae,Poeae,1,62,0,0,NA,NA,15.6,3.98,232,539.07,71,7.59,306.03,C3,"Tufted, shortly rhizomatous",a/b/p
+4 Days,Microlaena stipoides,Ehrhartoideae,Ehrharteae,8,288,116,40.28,4,6,45.84,6.28,439,990.4,138,7.18,314.35,C3,"Tufted, shortly rhizomatous",p
+4 Days,Microlaena stipoides,Ehrhartoideae,Ehrharteae,8,266,142,53.38,4,6,45.84,5.8,439,990.4,138,7.18,314.35,C3,"Tufted, shortly rhizomatous",p
+4 Days,Microlaena stipoides,Ehrhartoideae,Ehrharteae,8,323,125,38.7,4,5,53.79,6,439,990.4,138,7.18,314.35,C3,"Tufted, shortly rhizomatous",p
+4 Days,Microlaena stipoides,Ehrhartoideae,Ehrharteae,8,277,163,58.84,4,5,66.92,4.14,439,990.4,138,7.18,314.35,C3,"Tufted, shortly rhizomatous",p
+4 Days,Microlaena stipoides,Ehrhartoideae,Ehrharteae,8,240,114,47.5,4,6,23,10.44,439,990.4,138,7.18,314.35,C3,"Tufted, shortly rhizomatous",p
+8 Days,Microlaena stipoides,Ehrhartoideae,Ehrharteae,8,239,169,70.71,4,6,31.83,7.51,452,1097.05,149,7.36,329.65,C3,"Tufted, shortly rhizomatous",p
+8 Days,Microlaena stipoides,Ehrhartoideae,Ehrharteae,8,252,115,45.63,4,6,31.83,7.92,452,1097.05,149,7.36,329.65,C3,"Tufted, shortly rhizomatous",p
+8 Days,Microlaena stipoides,Ehrhartoideae,Ehrharteae,8,211,220,104.27,4,6,53.79,3.92,452,1097.05,149,7.36,329.65,C3,"Tufted, shortly rhizomatous",p
+8 Days,Microlaena stipoides,Ehrhartoideae,Ehrharteae,8,182,147,80.77,4,6,45.84,3.97,452,1097.05,149,7.36,329.65,C3,"Tufted, shortly rhizomatous",p
+8 Days,Microlaena stipoides,Ehrhartoideae,Ehrharteae,8,246,183,74.39,4,6,25.78,9.54,452,1097.05,149,7.36,329.65,C3,"Tufted, shortly rhizomatous",p
+11 Days,Microlaena stipoides,Ehrhartoideae,Ehrharteae,8,99,161,162.63,6,6,31.83,3.11,217,720.75,75,9.61,345.62,C3,"Tufted, shortly rhizomatous",p
+11 Days,Microlaena stipoides,Ehrhartoideae,Ehrharteae,8,142,133,93.66,4,6,45.84,3.1,217,720.75,75,9.61,345.62,C3,"Tufted, shortly rhizomatous",p
+11 Days,Microlaena stipoides,Ehrhartoideae,Ehrharteae,8,71,133,187.32,4,7,20.37,3.49,217,720.75,75,9.61,345.62,C3,"Tufted, shortly rhizomatous",p
+11 Days,Microlaena stipoides,Ehrhartoideae,Ehrharteae,8,224,201,89.73,4,4,45.84,4.89,217,720.75,75,9.61,345.62,C3,"Tufted, shortly rhizomatous",p
+11 Days,Microlaena stipoides,Ehrhartoideae,Ehrharteae,8,75,261,348,4,6,31.83,2.36,217,720.75,75,9.61,345.62,C3,"Tufted, shortly rhizomatous",p
+4 Days,Neurachne alopecuroidea,Panicoideae,Neurachneae,6,33,10,30.3,6,NA,11.46,2.88,527,1102.93,205,5.38,388.99,C3,"Tufted, shortly rhizomatous",p
+4 Days,Neurachne alopecuroidea,Panicoideae,Neurachneae,6,32,16,50,6,NA,7.96,4.02,527,1102.93,205,5.38,388.99,C3,"Tufted, shortly rhizomatous",p
+4 Days,Neurachne alopecuroidea,Panicoideae,Neurachneae,6,77,19,24.68,4,NA,38.52,2,527,1102.93,205,5.38,388.99,C3,"Tufted, shortly rhizomatous",p
+4 Days,Neurachne alopecuroidea,Panicoideae,Neurachneae,6,43,13,30.23,8,NA,20.37,2.11,527,1102.93,205,5.38,388.99,C3,"Tufted, shortly rhizomatous",p
+4 Days,Neurachne alopecuroidea,Panicoideae,Neurachneae,6,21,7,33.33,4,NA,9.63,2.18,527,1102.93,205,5.38,388.99,C3,"Tufted, shortly rhizomatous",p
+8 Days,Neurachne alopecuroidea,Panicoideae,Neurachneae,6,35,34,97.14,4,NA,11.46,3.05,477,1049.82,178,5.9,373.17,C3,"Tufted, shortly rhizomatous",p
+8 Days,Neurachne alopecuroidea,Panicoideae,Neurachneae,6,30,12,40,4,NA,9.63,3.12,477,1049.82,178,5.9,373.17,C3,"Tufted, shortly rhizomatous",p
+8 Days,Neurachne alopecuroidea,Panicoideae,Neurachneae,6,36,14,38.89,6,NA,15.6,2.31,477,1049.82,178,5.9,373.17,C3,"Tufted, shortly rhizomatous",p
+8 Days,Neurachne alopecuroidea,Panicoideae,Neurachneae,6,82,61,74.39,4,NA,66.92,1.23,477,1049.82,178,5.9,373.17,C3,"Tufted, shortly rhizomatous",p
+8 Days,Neurachne alopecuroidea,Panicoideae,Neurachneae,6,53,22,41.51,4,NA,23,2.3,477,1049.82,178,5.9,373.17,C3,"Tufted, shortly rhizomatous",p
+11 Days,Neurachne alopecuroidea,Panicoideae,Neurachneae,6,68,36,52.94,4,NA,11.46,5.93,385,830.95,151,5.5,392.21,C3,"Tufted, shortly rhizomatous",p
+11 Days,Neurachne alopecuroidea,Panicoideae,Neurachneae,6,55,24,43.64,4,NA,13.45,4.09,385,830.95,151,5.5,392.21,C3,"Tufted, shortly rhizomatous",p
+11 Days,Neurachne alopecuroidea,Panicoideae,Neurachneae,6,40,47,117.5,4,NA,13.45,2.97,385,830.95,151,5.5,392.21,C3,"Tufted, shortly rhizomatous",p
+11 Days,Neurachne alopecuroidea,Panicoideae,Neurachneae,6,23,8,34.78,6,NA,5.09,4.52,385,830.95,151,5.5,392.21,C3,"Tufted, shortly rhizomatous",p
+11 Days,Neurachne alopecuroidea,Panicoideae,Neurachneae,6,38,7,18.42,4,NA,38.52,0.99,385,830.95,151,5.5,392.21,C3,"Tufted, shortly rhizomatous",p
+4 Days,Oplismenus hirtellus,Panicoideae,Paniceae,5,52,1,1.92,4,9,183.35,0.28,171,481.86,49,9.83,286.55,C3,Stoloniferous,a/p
+4 Days,Oplismenus hirtellus,Panicoideae,Paniceae,5,53,0,0,NA,NA,76.47,0.69,171,481.86,49,9.83,286.55,C3,Stoloniferous,a/p
+4 Days,Oplismenus hirtellus,Panicoideae,Paniceae,5,72,0,0,NA,NA,183.35,0.39,171,481.86,49,9.83,286.55,C3,Stoloniferous,a/p
+4 Days,Oplismenus hirtellus,Panicoideae,Paniceae,5,83,0,0,NA,NA,198.94,0.42,171,481.86,49,9.83,286.55,C3,Stoloniferous,a/p
+4 Days,Oplismenus hirtellus,Panicoideae,Paniceae,5,109,0,0,NA,NA,198.94,0.55,171,481.86,49,9.83,286.55,C3,Stoloniferous,a/p
+8 Days,Oplismenus hirtellus,Panicoideae,Paniceae,5,65,0,0,NA,NA,154.06,0.42,73,530.07,37,14.33,506.85,C3,Stoloniferous,a/p
+8 Days,Oplismenus hirtellus,Panicoideae,Paniceae,5,66,1,1.52,8,NA,140.37,0.47,73,530.07,37,14.33,506.85,C3,Stoloniferous,a/p
+8 Days,Oplismenus hirtellus,Panicoideae,Paniceae,5,47,0,0,NA,NA,198.94,0.24,73,530.07,37,14.33,506.85,C3,Stoloniferous,a/p
+8 Days,Oplismenus hirtellus,Panicoideae,Paniceae,5,53,0,0,NA,NA,147.14,0.36,73,530.07,37,14.33,506.85,C3,Stoloniferous,a/p
+8 Days,Oplismenus hirtellus,Panicoideae,Paniceae,5,53,0,0,NA,NA,183.35,0.29,73,530.07,37,14.33,506.85,C3,Stoloniferous,a/p
+11 Days,Oplismenus hirtellus,Panicoideae,Paniceae,5,56,0,0,NA,NA,183.35,0.31,169,522.04,48,10.88,284.02,C3,Stoloniferous,a/p
+11 Days,Oplismenus hirtellus,Panicoideae,Paniceae,5,55,0,0,NA,NA,140.37,0.39,169,522.04,48,10.88,284.02,C3,Stoloniferous,a/p
+11 Days,Oplismenus hirtellus,Panicoideae,Paniceae,5,68,0,0,NA,NA,127.32,0.53,169,522.04,48,10.88,284.02,C3,Stoloniferous,a/p
+11 Days,Oplismenus hirtellus,Panicoideae,Paniceae,5,68,0,0,NA,NA,154.06,0.44,169,522.04,48,10.88,284.02,C3,Stoloniferous,a/p
+11 Days,Oplismenus hirtellus,Panicoideae,Paniceae,5,50,0,0,NA,NA,215.18,0.23,169,522.04,48,10.88,284.02,C3,Stoloniferous,a/p
+4 Days,Phragmites australis,Pooideae,Poeae,1,15,14,93.33,4,NA,91.99,0.16,4562,5668.61,1156,4.9,253.4,C3,Rhizomatous,p
+4 Days,Phragmites australis,Pooideae,Poeae,1,12,11,91.67,4,NA,91.99,0.13,4562,5668.61,1156,4.9,253.4,C3,Rhizomatous,p
+4 Days,Phragmites australis,Pooideae,Poeae,1,20,23,115,4,NA,183.35,0.11,4562,5668.61,1156,4.9,253.4,C3,Rhizomatous,p
+4 Days,Phragmites australis,Pooideae,Poeae,1,13,15,115.38,4,NA,121.04,0.11,4562,5668.61,1156,4.9,253.4,C3,Rhizomatous,p
+4 Days,Phragmites australis,Pooideae,Poeae,1,23,16,69.57,4,NA,147.14,0.16,4562,5668.61,1156,4.9,253.4,C3,Rhizomatous,p
+8 Days,Phragmites australis,Pooideae,Poeae,1,19,17,89.47,4,NA,133.77,0.14,2345,3685.03,862,4.27,367.59,C3,Rhizomatous,p
+8 Days,Phragmites australis,Pooideae,Poeae,1,11,16,145.45,6,NA,91.99,0.12,2345,3685.03,862,4.27,367.59,C3,Rhizomatous,p
+8 Days,Phragmites australis,Pooideae,Poeae,1,18,14,77.78,4,NA,121.04,0.15,2345,3685.03,862,4.27,367.59,C3,Rhizomatous,p
+8 Days,Phragmites australis,Pooideae,Poeae,1,12,7,58.33,6,NA,108.94,0.11,2345,3685.03,862,4.27,367.59,C3,Rhizomatous,p
+8 Days,Phragmites australis,Pooideae,Poeae,1,18,17,94.44,4,NA,76.47,0.24,2345,3685.03,862,4.27,367.59,C3,Rhizomatous,p
+11 Days,Phragmites australis,Pooideae,Poeae,1,18,22,122.22,8,NA,91.99,0.2,2961,4160.69,1207,3.45,407.63,C3,Rhizomatous,p
+11 Days,Phragmites australis,Pooideae,Poeae,1,18,26,144.44,4,NA,62.39,0.29,2961,4160.69,1207,3.45,407.63,C3,Rhizomatous,p
+11 Days,Phragmites australis,Pooideae,Poeae,1,10,11,110,6,NA,71.62,0.14,2961,4160.69,1207,3.45,407.63,C3,Rhizomatous,p
+11 Days,Phragmites australis,Pooideae,Poeae,1,12,9,75,6,NA,86.66,0.14,2961,4160.69,1207,3.45,407.63,C3,Rhizomatous,p
+11 Days,Phragmites australis,Pooideae,Poeae,1,10,15,150,8,NA,81.49,0.12,2961,4160.69,1207,3.45,407.63,C3,Rhizomatous,p
+4 Days,Paspalum distichum,Panicoideae,Paniceae,13,76,45,59.21,6,8,161.14,0.47,913,1618.49,201,8.05,220.15,C4,Stoloniferous,p
+4 Days,Paspalum distichum,Panicoideae,Paniceae,13,38,13,34.21,6,6,198.94,0.19,913,1618.49,201,8.05,220.15,C4,Stoloniferous,p
+4 Days,Paspalum distichum,Panicoideae,Paniceae,13,81,22,27.16,4,7,296.11,0.27,913,1618.49,201,8.05,220.15,C4,Stoloniferous,p
+4 Days,Paspalum distichum,Panicoideae,Paniceae,13,43,30,69.77,4,6,175.79,0.24,913,1618.49,201,8.05,220.15,C4,Stoloniferous,p
+4 Days,Paspalum distichum,Panicoideae,Paniceae,13,72,45,62.5,4,NA,215.18,0.33,913,1618.49,201,8.05,220.15,C4,Stoloniferous,p
+8 Days,Paspalum distichum,Panicoideae,Paniceae,13,34,36,105.88,4,7,206.98,0.16,544,1218.41,132,9.23,242.65,C4,Stoloniferous,p
+8 Days,Paspalum distichum,Panicoideae,Paniceae,13,33,31,93.94,4,7,223.53,0.15,544,1218.41,132,9.23,242.65,C4,Stoloniferous,p
+8 Days,Paspalum distichum,Panicoideae,Paniceae,13,61,38,62.3,4,7,140.37,0.43,544,1218.41,132,9.23,242.65,C4,Stoloniferous,p
+8 Days,Paspalum distichum,Panicoideae,Paniceae,13,45,18,40,4,9,240.72,0.19,544,1218.41,132,9.23,242.65,C4,Stoloniferous,p
+8 Days,Paspalum distichum,Panicoideae,Paniceae,13,27,27,100,4,7,249.56,0.11,544,1218.41,132,9.23,242.65,C4,Stoloniferous,p
+11 Days,Paspalum distichum,Panicoideae,Paniceae,13,49,37,75.51,6,7,240.72,0.2,618,1265.07,158,8.01,255.66,C4,Stoloniferous,p
+11 Days,Paspalum distichum,Panicoideae,Paniceae,13,66,16,24.24,6,7,175.79,0.38,618,1265.07,158,8.01,255.66,C4,Stoloniferous,p
+11 Days,Paspalum distichum,Panicoideae,Paniceae,13,34,25,73.53,4,NA,206.98,0.16,618,1265.07,158,8.01,255.66,C4,Stoloniferous,p
+11 Days,Paspalum distichum,Panicoideae,Paniceae,13,52,36,69.23,6,6,191.07,0.27,618,1265.07,158,8.01,255.66,C4,Stoloniferous,p
+11 Days,Paspalum distichum,Panicoideae,Paniceae,13,51,24,47.06,6,7,240.72,0.21,618,1265.07,158,8.01,255.66,C4,Stoloniferous,p
+4 Days,Panicum effusum,Panicoideae,Paniceae,13,65,45,69.23,6,NA,49.74,1.31,1854,2200,612,3.59,330.1,C4,Tufted,p
+4 Days,Panicum effusum,Panicoideae,Paniceae,13,108,59,54.63,4,NA,71.62,1.51,1854,2200,612,3.59,330.1,C4,Tufted,p
+4 Days,Panicum effusum,Panicoideae,Paniceae,13,81,25,30.86,4,NA,66.92,1.21,1854,2200,612,3.59,330.1,C4,Tufted,p
+4 Days,Panicum effusum,Panicoideae,Paniceae,13,113,37,32.74,4,NA,114.91,0.98,1854,2200,612,3.59,330.1,C4,Tufted,p
+4 Days,Panicum effusum,Panicoideae,Paniceae,13,84,24,28.57,4,NA,53.79,1.56,1854,2200,612,3.59,330.1,C4,Tufted,p
+8 Days,Panicum effusum,Panicoideae,Paniceae,13,72,48,66.67,4,NA,45.84,1.57,1063,1637.85,369,4.44,347.13,C4,Tufted,p
+8 Days,Panicum effusum,Panicoideae,Paniceae,13,90,79,87.78,4,NA,42.1,2.14,1063,1637.85,369,4.44,347.13,C4,Tufted,p
+8 Days,Panicum effusum,Panicoideae,Paniceae,13,99,51,51.52,4,NA,58.01,1.71,1063,1637.85,369,4.44,347.13,C4,Tufted,p
+8 Days,Panicum effusum,Panicoideae,Paniceae,13,76,17,22.37,6,NA,58.01,1.31,1063,1637.85,369,4.44,347.13,C4,Tufted,p
+8 Days,Panicum effusum,Panicoideae,Paniceae,13,96,52,54.17,4,NA,58.01,1.65,1063,1637.85,369,4.44,347.13,C4,Tufted,p
+11 Days,Panicum effusum,Panicoideae,Paniceae,13,151,62,41.06,6,NA,58.01,2.6,1144,1527.37,467,3.27,408.22,C4,Tufted,p
+11 Days,Panicum effusum,Panicoideae,Paniceae,13,83,41,49.4,4,NA,38.52,2.15,1144,1527.37,467,3.27,408.22,C4,Tufted,p
+11 Days,Panicum effusum,Panicoideae,Paniceae,13,78,58,74.36,4,NA,42.1,1.85,1144,1527.37,467,3.27,408.22,C4,Tufted,p
+11 Days,Panicum effusum,Panicoideae,Paniceae,13,152,49,32.24,4,NA,58.01,2.62,1144,1527.37,467,3.27,408.22,C4,Tufted,p
+11 Days,Panicum effusum,Panicoideae,Paniceae,13,96,68,70.83,6,NA,97.48,0.98,1144,1527.37,467,3.27,408.22,C4,Tufted,p
+4 Days,Paspalidium jubiflorum,Panicoideae,Paniceae,13,220,107,48.64,2,8,81.49,2.7,1087,2251,317,7.1,291.63,C4,Tufted,p
+4 Days,Paspalidium jubiflorum,Panicoideae,Paniceae,13,172,91,52.91,4,6,38.52,4.47,1087,2251,317,7.1,291.63,C4,Tufted,p
+4 Days,Paspalidium jubiflorum,Panicoideae,Paniceae,13,138,73,52.9,2,9,103.13,1.34,1087,2251,317,7.1,291.63,C4,Tufted,p
+4 Days,Paspalidium jubiflorum,Panicoideae,Paniceae,13,151,71,47.02,4,NA,49.74,3.04,1087,2251,317,7.1,291.63,C4,Tufted,p
+4 Days,Paspalidium jubiflorum,Panicoideae,Paniceae,13,146,81,55.48,4,7,58.01,2.52,1087,2251,317,7.1,291.63,C4,Tufted,p
+8 Days,Paspalidium jubiflorum,Panicoideae,Paniceae,13,177,127,71.75,2,8,62.39,2.84,455,1167.23,96,12.16,210.99,C4,Tufted,p
+8 Days,Paspalidium jubiflorum,Panicoideae,Paniceae,13,153,103,67.32,2,6,91.99,1.66,455,1167.23,96,12.16,210.99,C4,Tufted,p
+8 Days,Paspalidium jubiflorum,Panicoideae,Paniceae,13,126,70,55.56,4,7,97.48,1.29,455,1167.23,96,12.16,210.99,C4,Tufted,p
+8 Days,Paspalidium jubiflorum,Panicoideae,Paniceae,13,142,64,45.07,4,8,62.39,2.28,455,1167.23,96,12.16,210.99,C4,Tufted,p
+8 Days,Paspalidium jubiflorum,Panicoideae,Paniceae,13,131,84,64.12,2,7,38.52,3.4,455,1167.23,96,12.16,210.99,C4,Tufted,p
+11 Days,Paspalidium jubiflorum,Panicoideae,Paniceae,13,129,92,71.32,4,7,66.92,1.93,349,894.28,86,10.4,246.42,C4,Tufted,p
+11 Days,Paspalidium jubiflorum,Panicoideae,Paniceae,13,155,98,63.23,4,7,42.1,3.68,349,894.28,86,10.4,246.42,C4,Tufted,p
+11 Days,Paspalidium jubiflorum,Panicoideae,Paniceae,13,93,81,87.1,4,7,62.39,1.49,349,894.28,86,10.4,246.42,C4,Tufted,p
+11 Days,Paspalidium jubiflorum,Panicoideae,Paniceae,13,145,41,28.28,6,6,66.92,2.17,349,894.28,86,10.4,246.42,C4,Tufted,p
+11 Days,Paspalidium jubiflorum,Panicoideae,Paniceae,13,142,61,42.96,6,8,53.79,2.64,349,894.28,86,10.4,246.42,C4,Tufted,p
+4 Days,Poa labillardieri,Pooideae,Poeae,1,124,105,84.68,2,NA,23,5.39,2628,2674.84,1279,2.09,486.68,C3,Tufted,p
+4 Days,Poa labillardieri,Pooideae,Poeae,1,131,113,86.26,2,NA,23,5.7,2628,2674.84,1279,2.09,486.68,C3,Tufted,p
+4 Days,Poa labillardieri,Pooideae,Poeae,1,182,79,43.41,2,NA,23,7.91,2628,2674.84,1279,2.09,486.68,C3,Tufted,p
+4 Days,Poa labillardieri,Pooideae,Poeae,1,119,92,77.31,2,NA,25.78,4.62,2628,2674.84,1279,2.09,486.68,C3,Tufted,p
+4 Days,Poa labillardieri,Pooideae,Poeae,1,103,76,73.79,4,NA,20.37,5.06,2628,2674.84,1279,2.09,486.68,C3,Tufted,p
+8 Days,Poa labillardieri,Pooideae,Poeae,1,90,96,106.67,2,NA,23,3.91,2065,1914.27,822,2.33,398.06,C3,Tufted,p
+8 Days,Poa labillardieri,Pooideae,Poeae,1,86,119,138.37,2,NA,17.9,4.8,2065,1914.27,822,2.33,398.06,C3,Tufted,p
+8 Days,Poa labillardieri,Pooideae,Poeae,1,104,101,97.12,2,NA,23,4.52,2065,1914.27,822,2.33,398.06,C3,Tufted,p
+8 Days,Poa labillardieri,Pooideae,Poeae,1,69,114,165.22,4,NA,23,3,2065,1914.27,822,2.33,398.06,C3,Tufted,p
+8 Days,Poa labillardieri,Pooideae,Poeae,1,91,104,114.29,2,NA,23,3.96,2065,1914.27,822,2.33,398.06,C3,Tufted,p
+11 Days,Poa labillardieri,Pooideae,Poeae,1,119,107,89.92,4,NA,23,5.17,1772,1756.3,913,1.92,515.24,C3,Tufted,p
+11 Days,Poa labillardieri,Pooideae,Poeae,1,84,99,117.86,4,NA,17.9,4.69,1772,1756.3,913,1.92,515.24,C3,Tufted,p
+11 Days,Poa labillardieri,Pooideae,Poeae,1,109,109,100,2,NA,17.9,6.09,1772,1756.3,913,1.92,515.24,C3,Tufted,p
+11 Days,Poa labillardieri,Pooideae,Poeae,1,76,139,182.89,4,NA,17.9,4.24,1772,1756.3,913,1.92,515.24,C3,Tufted,p
+11 Days,Poa labillardieri,Pooideae,Poeae,1,108,86,79.63,4,NA,17.9,6.03,1772,1756.3,913,1.92,515.24,C3,Tufted,p
+4 Days,Pentapogon quadrifidus,Panicoideae,Paniceae,5,44,32,72.73,2,NA,17.9,2.46,724,1094.95,278,3.94,383.98,C3,Tufted,a/p
+4 Days,Pentapogon quadrifidus,Panicoideae,Paniceae,5,38,31,81.58,2,NA,11.46,3.32,724,1094.95,278,3.94,383.98,C3,Tufted,a/p
+4 Days,Pentapogon quadrifidus,Panicoideae,Paniceae,5,71,35,49.3,2,NA,42.1,1.69,724,1094.95,278,3.94,383.98,C3,Tufted,a/p
+4 Days,Pentapogon quadrifidus,Panicoideae,Paniceae,5,96,51,53.13,2,NA,25.78,3.72,724,1094.95,278,3.94,383.98,C3,Tufted,a/p
+4 Days,Pentapogon quadrifidus,Panicoideae,Paniceae,5,39,37,94.87,4,NA,17.9,2.18,724,1094.95,278,3.94,383.98,C3,Tufted,a/p
+8 Days,Pentapogon quadrifidus,Panicoideae,Paniceae,5,51,46,90.2,4,NA,23,2.22,543,945.62,161,5.87,296.5,C3,Tufted,a/p
+8 Days,Pentapogon quadrifidus,Panicoideae,Paniceae,5,77,81,105.19,2,NA,23,3.35,543,945.62,161,5.87,296.5,C3,Tufted,a/p
+8 Days,Pentapogon quadrifidus,Panicoideae,Paniceae,5,57,34,59.65,4,NA,13.45,4.24,543,945.62,161,5.87,296.5,C3,Tufted,a/p
+8 Days,Pentapogon quadrifidus,Panicoideae,Paniceae,5,46,27,58.7,2,NA,28.73,1.6,543,945.62,161,5.87,296.5,C3,Tufted,a/p
+8 Days,Pentapogon quadrifidus,Panicoideae,Paniceae,5,70,71,101.43,2,NA,17.9,3.91,543,945.62,161,5.87,296.5,C3,Tufted,a/p
+11 Days,Pentapogon quadrifidus,Panicoideae,Paniceae,5,51,6,11.76,4,NA,23,2.22,510,793.14,177,4.48,347.06,C3,Tufted,a/p
+11 Days,Pentapogon quadrifidus,Panicoideae,Paniceae,5,18,21,116.67,2,NA,17.9,1.01,510,793.14,177,4.48,347.06,C3,Tufted,a/p
+11 Days,Pentapogon quadrifidus,Panicoideae,Paniceae,5,44,20,45.45,4,NA,15.6,2.82,510,793.14,177,4.48,347.06,C3,Tufted,a/p
+11 Days,Pentapogon quadrifidus,Panicoideae,Paniceae,5,53,44,83.02,2,NA,20.37,2.6,510,793.14,177,4.48,347.06,C3,Tufted,a/p
+11 Days,Pentapogon quadrifidus,Panicoideae,Paniceae,5,51,63,123.53,4,NA,17.9,2.85,510,793.14,177,4.48,347.06,C3,Tufted,a/p
+4 Days,Poa sieberiana,Pooideae,Poeae,1,154,0,0,NA,NA,17.9,8.6,1009,716.11,350,2.05,346.88,C3,Tufted,p
+4 Days,Poa sieberiana,Pooideae,Poeae,1,139,23,16.55,4,NA,13.45,10.34,1009,716.11,350,2.05,346.88,C3,Tufted,p
+4 Days,Poa sieberiana,Pooideae,Poeae,1,128,0,0,NA,NA,11.46,11.17,1009,716.11,350,2.05,346.88,C3,Tufted,p
+4 Days,Poa sieberiana,Pooideae,Poeae,1,109,63,57.8,4,NA,15.6,6.99,1009,716.11,350,2.05,346.88,C3,Tufted,p
+4 Days,Poa sieberiana,Pooideae,Poeae,1,195,27,13.85,4,NA,20.37,9.57,1009,716.11,350,2.05,346.88,C3,Tufted,p
+8 Days,Poa sieberiana,Pooideae,Poeae,1,81,17,20.99,4,NA,17.9,4.52,810,989.58,247,4.01,304.94,C3,Tufted,p
+8 Days,Poa sieberiana,Pooideae,Poeae,1,381,279,73.23,4,NA,31.83,11.97,810,989.58,247,4.01,304.94,C3,Tufted,p
+8 Days,Poa sieberiana,Pooideae,Poeae,1,74,12,16.22,4,NA,6.45,11.48,810,989.58,247,4.01,304.94,C3,Tufted,p
+8 Days,Poa sieberiana,Pooideae,Poeae,1,103,11,10.68,4,NA,28.73,3.59,810,989.58,247,4.01,304.94,C3,Tufted,p
+8 Days,Poa sieberiana,Pooideae,Poeae,1,106,0,0,NA,NA,13.45,7.88,810,989.58,247,4.01,304.94,C3,Tufted,p
+11 Days,Poa sieberiana,Pooideae,Poeae,1,82,21,25.61,4,NA,23,3.57,1040,825.41,416,1.98,400,C3,Tufted,p
+11 Days,Poa sieberiana,Pooideae,Poeae,1,97,111,114.43,2,NA,15.6,6.22,1040,825.41,416,1.98,400,C3,Tufted,p
+11 Days,Poa sieberiana,Pooideae,Poeae,1,78,0,0,NA,NA,17.9,4.36,1040,825.41,416,1.98,400,C3,Tufted,p
+11 Days,Poa sieberiana,Pooideae,Poeae,1,126,35,27.78,6,NA,17.9,7.04,1040,825.41,416,1.98,400,C3,Tufted,p
+11 Days,Poa sieberiana,Pooideae,Poeae,1,157,0,0,NA,NA,15.6,10.07,1040,825.41,416,1.98,400,C3,Tufted,p
+4 Days,Rytidosperma carphoidesum,Danthonioideae,Danthonieae,7,56,21,37.5,4,NA,23,2.44,1101,1365.16,314,4.35,285.2,C3,Tufted,p
+4 Days,Rytidosperma carphoidesum,Danthonioideae,Danthonieae,7,57,4,7.02,6,NA,9.63,5.92,1101,1365.16,314,4.35,285.2,C3,Tufted,p
+4 Days,Rytidosperma carphoidesum,Danthonioideae,Danthonieae,7,77,48,62.34,4,NA,11.46,6.72,1101,1365.16,314,4.35,285.2,C3,Tufted,p
+4 Days,Rytidosperma carphoidesum,Danthonioideae,Danthonieae,7,52,45,86.54,4,NA,23,2.26,1101,1365.16,314,4.35,285.2,C3,Tufted,p
+4 Days,Rytidosperma carphoidesum,Danthonioideae,Danthonieae,7,52,54,103.85,2,NA,11.46,4.54,1101,1365.16,314,4.35,285.2,C3,Tufted,p
+8 Days,Rytidosperma carphoidesum,Danthonioideae,Danthonieae,7,68,120,176.47,4,NA,23,2.96,996,1538.28,329,4.68,330.32,C3,Tufted,p
+8 Days,Rytidosperma carphoidesum,Danthonioideae,Danthonieae,7,52,101,194.23,2,NA,11.46,4.54,996,1538.28,329,4.68,330.32,C3,Tufted,p
+8 Days,Rytidosperma carphoidesum,Danthonioideae,Danthonieae,7,76,74,97.37,4,NA,28.73,2.65,996,1538.28,329,4.68,330.32,C3,Tufted,p
+8 Days,Rytidosperma carphoidesum,Danthonioideae,Danthonieae,7,75,113,150.67,2,NA,13.45,5.58,996,1538.28,329,4.68,330.32,C3,Tufted,p
+8 Days,Rytidosperma carphoidesum,Danthonioideae,Danthonieae,7,69,40,57.97,4,NA,15.6,4.42,996,1538.28,329,4.68,330.32,C3,Tufted,p
+11 Days,Rytidosperma carphoidesum,Danthonioideae,Danthonieae,7,115,137,119.13,4,NA,23,5,1298,1755.51,424,4.14,326.66,C3,Tufted,p
+11 Days,Rytidosperma carphoidesum,Danthonioideae,Danthonieae,7,43,46,106.98,2,NA,13.45,3.2,1298,1755.51,424,4.14,326.66,C3,Tufted,p
+11 Days,Rytidosperma carphoidesum,Danthonioideae,Danthonieae,7,48,73,152.08,2,NA,7.96,6.03,1298,1755.51,424,4.14,326.66,C3,Tufted,p
+11 Days,Rytidosperma carphoidesum,Danthonioideae,Danthonieae,7,60,82,136.67,2,NA,13.45,4.46,1298,1755.51,424,4.14,326.66,C3,Tufted,p
+11 Days,Rytidosperma carphoidesum,Danthonioideae,Danthonieae,7,79,151,191.14,2,NA,15.6,5.07,1298,1755.51,424,4.14,326.66,C3,Tufted,p
+4 Days,Rytidosperma caespitosum,Danthonioideae,Danthonieae,7,35,15,42.86,2,7,15.6,2.24,1262,1525.6,422,3.62,334.39,C3,Tufted,p
+4 Days,Rytidosperma caespitosum,Danthonioideae,Danthonieae,7,28,1,3.57,2,NA,25.78,1.09,1262,1525.6,422,3.62,334.39,C3,Tufted,p
+4 Days,Rytidosperma caespitosum,Danthonioideae,Danthonieae,7,64,0,0,NA,NA,17.9,3.57,1262,1525.6,422,3.62,334.39,C3,Tufted,p
+4 Days,Rytidosperma caespitosum,Danthonioideae,Danthonieae,7,27,12,44.44,4,7,13.45,2.01,1262,1525.6,422,3.62,334.39,C3,Tufted,p
+4 Days,Rytidosperma caespitosum,Danthonioideae,Danthonieae,7,15,6,40,4,NA,15.6,0.96,1262,1525.6,422,3.62,334.39,C3,Tufted,p
+8 Days,Rytidosperma caespitosum,Danthonioideae,Danthonieae,7,26,1,3.85,4,NA,23,1.13,1148,1550.21,339,4.57,295.3,C3,Tufted,p
+8 Days,Rytidosperma caespitosum,Danthonioideae,Danthonieae,7,22,0,0,NA,NA,15.6,1.41,1148,1550.21,339,4.57,295.3,C3,Tufted,p
+8 Days,Rytidosperma caespitosum,Danthonioideae,Danthonieae,7,55,14,25.45,2,NA,58.01,0.95,1148,1550.21,339,4.57,295.3,C3,Tufted,p
+8 Days,Rytidosperma caespitosum,Danthonioideae,Danthonieae,7,74,0,0,NA,NA,23,3.22,1148,1550.21,339,4.57,295.3,C3,Tufted,p
+8 Days,Rytidosperma caespitosum,Danthonioideae,Danthonieae,7,25,0,0,NA,NA,23,1.09,1148,1550.21,339,4.57,295.3,C3,Tufted,p
+11 Days,Rytidosperma caespitosum,Danthonioideae,Danthonieae,7,44,13,29.55,4,7,15.6,2.82,1242,1602.48,416,3.85,334.94,C3,Tufted,p
+11 Days,Rytidosperma caespitosum,Danthonioideae,Danthonieae,7,27,21,77.78,2,NA,23,1.17,1242,1602.48,416,3.85,334.94,C3,Tufted,p
+11 Days,Rytidosperma caespitosum,Danthonioideae,Danthonieae,7,39,9,23.08,2,7,15.6,2.5,1242,1602.48,416,3.85,334.94,C3,Tufted,p
+11 Days,Rytidosperma caespitosum,Danthonioideae,Danthonieae,7,53,9,16.98,2,6,35.09,1.51,1242,1602.48,416,3.85,334.94,C3,Tufted,p
+11 Days,Rytidosperma caespitosum,Danthonioideae,Danthonieae,7,18,0,0,NA,NA,7.96,2.26,1242,1602.48,416,3.85,334.94,C3,Tufted,p
+4 Days,Rytidosperma duttonianum,Danthonioideae,Danthonieae,7,40,0,0,NA,NA,7.96,5.03,1425,1427.26,421,3.39,295.44,C3,Tufted,p
+4 Days,Rytidosperma duttonianum,Danthonioideae,Danthonieae,7,6,0,0,NA,NA,6.45,0.93,1425,1427.26,421,3.39,295.44,C3,Tufted,p
+4 Days,Rytidosperma duttonianum,Danthonioideae,Danthonieae,7,68,61,89.71,2,NA,28.73,2.37,1425,1427.26,421,3.39,295.44,C3,Tufted,p
+4 Days,Rytidosperma duttonianum,Danthonioideae,Danthonieae,7,17,33,194.12,4,NA,13.45,1.26,1425,1427.26,421,3.39,295.44,C3,Tufted,p
+4 Days,Rytidosperma duttonianum,Danthonioideae,Danthonieae,7,77,63,81.82,4,NA,23,3.35,1425,1427.26,421,3.39,295.44,C3,Tufted,p
+8 Days,Rytidosperma duttonianum,Danthonioideae,Danthonieae,7,18,21,116.67,2,NA,5.09,3.53,921,1225.15,264,4.64,286.64,C3,Tufted,p
+8 Days,Rytidosperma duttonianum,Danthonioideae,Danthonieae,7,89,99,111.24,2,NA,23,3.87,921,1225.15,264,4.64,286.64,C3,Tufted,p
+8 Days,Rytidosperma duttonianum,Danthonioideae,Danthonieae,7,107,153,142.99,2,NA,28.73,3.72,921,1225.15,264,4.64,286.64,C3,Tufted,p
+8 Days,Rytidosperma duttonianum,Danthonioideae,Danthonieae,7,97,72,74.23,2,NA,28.73,3.38,921,1225.15,264,4.64,286.64,C3,Tufted,p
+8 Days,Rytidosperma duttonianum,Danthonioideae,Danthonieae,7,55,38,69.09,2,NA,15.6,3.53,921,1225.15,264,4.64,286.64,C3,Tufted,p
+11 Days,Rytidosperma duttonianum,Danthonioideae,Danthonieae,7,37,44,118.92,4,NA,17.9,2.07,1440,1918.08,448,4.28,311.11,C3,Tufted,p
+11 Days,Rytidosperma duttonianum,Danthonioideae,Danthonieae,7,64,74,115.63,2,NA,13.45,4.76,1440,1918.08,448,4.28,311.11,C3,Tufted,p
+11 Days,Rytidosperma duttonianum,Danthonioideae,Danthonieae,7,62,63,101.61,2,8,17.9,3.46,1440,1918.08,448,4.28,311.11,C3,Tufted,p
+11 Days,Rytidosperma duttonianum,Danthonioideae,Danthonieae,7,71,105,147.89,2,NA,23,3.09,1440,1918.08,448,4.28,311.11,C3,Tufted,p
+11 Days,Rytidosperma duttonianum,Danthonioideae,Danthonieae,7,50,79,158,4,10,17.9,2.79,1440,1918.08,448,4.28,311.11,C3,Tufted,p
+4 Days,Rytidosperma erianthum,Danthonioideae,Danthonieae,7,141,79,56.03,4,NA,28.73,4.91,1425,1606.67,542,2.96,380.35,C3,Tufted,p
+4 Days,Rytidosperma erianthum,Danthonioideae,Danthonieae,7,107,30,28.04,4,NA,31.83,3.36,1425,1606.67,542,2.96,380.35,C3,Tufted,p
+4 Days,Rytidosperma erianthum,Danthonioideae,Danthonieae,7,69,0,0,NA,NA,42.1,1.64,1425,1606.67,542,2.96,380.35,C3,Tufted,p
+4 Days,Rytidosperma erianthum,Danthonioideae,Danthonieae,7,98,40,40.82,4,NA,31.83,3.08,1425,1606.67,542,2.96,380.35,C3,Tufted,p
+4 Days,Rytidosperma erianthum,Danthonioideae,Danthonieae,7,124,51,41.13,2,NA,23,5.39,1425,1606.67,542,2.96,380.35,C3,Tufted,p
+8 Days,Rytidosperma erianthum,Danthonioideae,Danthonieae,7,87,64,73.56,2,NA,17.9,4.86,1411,1967.67,476,4.13,337.35,C3,Tufted,p
+8 Days,Rytidosperma erianthum,Danthonioideae,Danthonieae,7,88,81,92.05,2,NA,38.52,2.28,1411,1967.67,476,4.13,337.35,C3,Tufted,p
+8 Days,Rytidosperma erianthum,Danthonioideae,Danthonieae,7,71,56,78.87,4,NA,20.37,3.49,1411,1967.67,476,4.13,337.35,C3,Tufted,p
+8 Days,Rytidosperma erianthum,Danthonioideae,Danthonieae,7,68,53,77.94,2,NA,31.83,2.14,1411,1967.67,476,4.13,337.35,C3,Tufted,p
+8 Days,Rytidosperma erianthum,Danthonioideae,Danthonieae,7,33,27,81.82,2,NA,35.09,0.94,1411,1967.67,476,4.13,337.35,C3,Tufted,p
+11 Days,Rytidosperma erianthum,Danthonioideae,Danthonieae,7,86,79,91.86,6,NA,25.78,3.34,1400,1933.39,652,2.97,465.71,C3,Tufted,p
+11 Days,Rytidosperma erianthum,Danthonioideae,Danthonieae,7,77,81,105.19,2,NA,20.37,3.78,1400,1933.39,652,2.97,465.71,C3,Tufted,p
+11 Days,Rytidosperma erianthum,Danthonioideae,Danthonieae,7,67,75,111.94,2,NA,17.9,3.74,1400,1933.39,652,2.97,465.71,C3,Tufted,p
+11 Days,Rytidosperma erianthum,Danthonioideae,Danthonieae,7,105,104,99.05,4,NA,23,4.57,1400,1933.39,652,2.97,465.71,C3,Tufted,p
+11 Days,Rytidosperma erianthum,Danthonioideae,Danthonieae,7,95,133,140,4,NA,23,4.13,1400,1933.39,652,2.97,465.71,C3,Tufted,p
+4 Days,Rytidosperma  fulvum,Danthonioideae,Danthonieae,7,32,6,18.75,4,7,17.9,1.79,1389,1694,461,3.67,331.89,C3,Tufted,p
+4 Days,Rytidosperma  fulvum,Danthonioideae,Danthonieae,7,60,0,0,NA,NA,31.83,1.88,1389,1694,461,3.67,331.89,C3,Tufted,p
+4 Days,Rytidosperma  fulvum,Danthonioideae,Danthonieae,7,59,0,0,NA,NA,86.66,0.68,1389,1694,461,3.67,331.89,C3,Tufted,p
+4 Days,Rytidosperma  fulvum,Danthonioideae,Danthonieae,7,56,5,8.93,4,7,42.1,1.33,1389,1694,461,3.67,331.89,C3,Tufted,p
+4 Days,Rytidosperma  fulvum,Danthonioideae,Danthonieae,7,9,0,0,NA,NA,9.63,0.93,1389,1694,461,3.67,331.89,C3,Tufted,p
+8 Days,Rytidosperma  fulvum,Danthonioideae,Danthonieae,7,48,38,79.17,2,7,31.83,1.51,998,1568.67,332,4.72,332.67,C3,Tufted,p
+8 Days,Rytidosperma  fulvum,Danthonioideae,Danthonieae,7,50,28,56,2,8,20.37,2.45,998,1568.67,332,4.72,332.67,C3,Tufted,p
+8 Days,Rytidosperma  fulvum,Danthonioideae,Danthonieae,7,75,63,84,2,7,28.73,2.61,998,1568.67,332,4.72,332.67,C3,Tufted,p
+8 Days,Rytidosperma  fulvum,Danthonioideae,Danthonieae,7,37,28,75.68,2,9,20.37,1.82,998,1568.67,332,4.72,332.67,C3,Tufted,p
+8 Days,Rytidosperma  fulvum,Danthonioideae,Danthonieae,7,38,31,81.58,2,8,17.9,2.12,998,1568.67,332,4.72,332.67,C3,Tufted,p
+11 Days,Rytidosperma  fulvum,Danthonioideae,Danthonieae,7,48,26,54.17,4,7,23,2.09,1227,1767.56,542,3.26,441.73,C3,Tufted,p
+11 Days,Rytidosperma  fulvum,Danthonioideae,Danthonieae,7,46,0,0,NA,NA,15.6,2.95,1227,1767.56,542,3.26,441.73,C3,Tufted,p
+11 Days,Rytidosperma  fulvum,Danthonioideae,Danthonieae,7,26,34,130.77,2,6,31.83,0.82,1227,1767.56,542,3.26,441.73,C3,Tufted,p
+11 Days,Rytidosperma  fulvum,Danthonioideae,Danthonieae,7,86,42,48.84,2,6,35.09,2.45,1227,1767.56,542,3.26,441.73,C3,Tufted,p
+11 Days,Rytidosperma  fulvum,Danthonioideae,Danthonieae,7,45,28,62.22,2,7,25.78,1.75,1227,1767.56,542,3.26,441.73,C3,Tufted,p
+4 Days,Rytidosperma geniculatum,Danthonioideae,Danthonieae,7,97,99,102.06,2,NA,11.46,8.46,256,313.04,101,3.1,394.53,C3,Tufted,p
+4 Days,Rytidosperma geniculatum,Danthonioideae,Danthonieae,7,154,6,3.9,4,NA,17.9,8.6,256,313.04,101,3.1,394.53,C3,Tufted,p
+4 Days,Rytidosperma geniculatum,Danthonioideae,Danthonieae,7,155,0,0,NA,NA,23,6.74,256,313.04,101,3.1,394.53,C3,Tufted,p
+4 Days,Rytidosperma geniculatum,Danthonioideae,Danthonieae,7,64,66,103.13,2,NA,42.1,1.52,256,313.04,101,3.1,394.53,C3,Tufted,p
+4 Days,Rytidosperma geniculatum,Danthonioideae,Danthonieae,7,60,3,5,4,NA,9.63,6.23,256,313.04,101,3.1,394.53,C3,Tufted,p
+8 Days,Rytidosperma geniculatum,Danthonioideae,Danthonieae,7,118,143,121.19,2,NA,25.78,4.58,246,417.02,71,5.87,288.62,C3,Tufted,p
+8 Days,Rytidosperma geniculatum,Danthonioideae,Danthonieae,7,69,0,0,NA,NA,17.9,3.85,246,417.02,71,5.87,288.62,C3,Tufted,p
+8 Days,Rytidosperma geniculatum,Danthonioideae,Danthonieae,7,122,162,132.79,4,NA,25.78,4.73,246,417.02,71,5.87,288.62,C3,Tufted,p
+8 Days,Rytidosperma geniculatum,Danthonioideae,Danthonieae,7,182,109,59.89,4,NA,23,7.91,246,417.02,71,5.87,288.62,C3,Tufted,p
+8 Days,Rytidosperma geniculatum,Danthonioideae,Danthonieae,7,131,64,48.85,4,NA,15.6,8.4,246,417.02,71,5.87,288.62,C3,Tufted,p
+11 Days,Rytidosperma geniculatum,Danthonioideae,Danthonieae,7,78,219,280.77,4,NA,20.37,3.83,267,537.05,94,5.71,352.06,C3,Tufted,p
+11 Days,Rytidosperma geniculatum,Danthonioideae,Danthonieae,7,126,64,50.79,4,NA,17.9,7.04,267,537.05,94,5.71,352.06,C3,Tufted,p
+11 Days,Rytidosperma geniculatum,Danthonioideae,Danthonieae,7,173,72,41.62,4,NA,23,7.52,267,537.05,94,5.71,352.06,C3,Tufted,p
+11 Days,Rytidosperma geniculatum,Danthonioideae,Danthonieae,7,66,0,0,NA,NA,20.37,3.24,267,537.05,94,5.71,352.06,C3,Tufted,p
+11 Days,Rytidosperma geniculatum,Danthonioideae,Danthonieae,7,128,21,16.41,4,NA,15.6,8.21,267,537.05,94,5.71,352.06,C3,Tufted,p
+4 Days,Rytidosperma laeve,Danthonioideae,Danthonieae,7,69,14,20.29,6,NA,17.9,3.85,548,724.5,195,3.72,355.84,C3,Tufted,p
+4 Days,Rytidosperma laeve,Danthonioideae,Danthonieae,7,57,8,14.04,4,NA,13.45,4.24,548,724.5,195,3.72,355.84,C3,Tufted,p
+4 Days,Rytidosperma laeve,Danthonioideae,Danthonieae,7,95,1,1.05,4,NA,28.73,3.31,548,724.5,195,3.72,355.84,C3,Tufted,p
+4 Days,Rytidosperma laeve,Danthonioideae,Danthonieae,7,98,13,13.27,4,NA,35.09,2.79,548,724.5,195,3.72,355.84,C3,Tufted,p
+4 Days,Rytidosperma laeve,Danthonioideae,Danthonieae,7,53,6,11.32,6,NA,9.63,5.5,548,724.5,195,3.72,355.84,C3,Tufted,p
+8 Days,Rytidosperma laeve,Danthonioideae,Danthonieae,7,80,18,22.5,4,NA,20.37,3.93,694,1273.83,242,5.26,348.7,C3,Tufted,p
+8 Days,Rytidosperma laeve,Danthonioideae,Danthonieae,7,82,70,85.37,2,NA,20.37,4.03,694,1273.83,242,5.26,348.7,C3,Tufted,p
+8 Days,Rytidosperma laeve,Danthonioideae,Danthonieae,7,113,27,23.89,4,NA,25.78,4.38,694,1273.83,242,5.26,348.7,C3,Tufted,p
+8 Days,Rytidosperma laeve,Danthonioideae,Danthonieae,7,79,28,35.44,2,NA,15.6,5.07,694,1273.83,242,5.26,348.7,C3,Tufted,p
+8 Days,Rytidosperma laeve,Danthonioideae,Danthonieae,7,115,15,13.04,4,NA,42.1,2.73,694,1273.83,242,5.26,348.7,C3,Tufted,p
+11 Days,Rytidosperma laeve,Danthonioideae,Danthonieae,7,54,59,109.26,4,NA,20.37,2.65,544,933.73,200,4.67,367.65,C3,Tufted,p
+11 Days,Rytidosperma laeve,Danthonioideae,Danthonieae,7,117,85,72.65,4,NA,25.78,4.54,544,933.73,200,4.67,367.65,C3,Tufted,p
+11 Days,Rytidosperma laeve,Danthonioideae,Danthonieae,7,67,9,13.43,4,NA,13.45,4.98,544,933.73,200,4.67,367.65,C3,Tufted,p
+11 Days,Rytidosperma laeve,Danthonioideae,Danthonieae,7,61,53,86.89,4,NA,20.37,2.99,544,933.73,200,4.67,367.65,C3,Tufted,p
+11 Days,Rytidosperma laeve,Danthonioideae,Danthonieae,7,71,37,52.11,4,NA,42.1,1.69,544,933.73,200,4.67,367.65,C3,Tufted,p
+4 Days,Rytidosperma pallidum ,Danthonioideae,Danthonieae,7,15,1,6.67,6,NA,3.9,3.85,1259,1138.11,499,2.28,396.35,C3,Tufted,p
+4 Days,Rytidosperma pallidum ,Danthonioideae,Danthonieae,7,34,3,8.82,4,NA,11.46,2.97,1259,1138.11,499,2.28,396.35,C3,Tufted,p
+4 Days,Rytidosperma pallidum ,Danthonioideae,Danthonieae,7,10,0,0,NA,NA,7.96,1.26,1259,1138.11,499,2.28,396.35,C3,Tufted,p
+4 Days,Rytidosperma pallidum ,Danthonioideae,Danthonieae,7,36,0,0,NA,NA,9.63,3.74,1259,1138.11,499,2.28,396.35,C3,Tufted,p
+4 Days,Rytidosperma pallidum ,Danthonioideae,Danthonieae,7,43,1,2.33,4,NA,23,1.87,1259,1138.11,499,2.28,396.35,C3,Tufted,p
+8 Days,Rytidosperma pallidum ,Danthonioideae,Danthonieae,7,115,42,36.52,4,NA,20.37,5.65,919,723.3,319,2.27,347.12,C3,Tufted,p
+8 Days,Rytidosperma pallidum ,Danthonioideae,Danthonieae,7,25,0,0,4,NA,7.96,3.14,919,723.3,319,2.27,347.12,C3,Tufted,p
+8 Days,Rytidosperma pallidum ,Danthonioideae,Danthonieae,7,24,2,8.33,4,NA,9.63,2.49,919,723.3,319,2.27,347.12,C3,Tufted,p
+8 Days,Rytidosperma pallidum ,Danthonioideae,Danthonieae,7,35,0,0,NA,NA,9.63,3.63,919,723.3,319,2.27,347.12,C3,Tufted,p
+8 Days,Rytidosperma pallidum ,Danthonioideae,Danthonieae,7,11,0,0,NA,NA,6.45,1.71,919,723.3,319,2.27,347.12,C3,Tufted,p
+11 Days,Rytidosperma pallidum ,Danthonioideae,Danthonieae,7,80,10,12.5,4,NA,13.45,5.95,790,649.46,329,1.97,416.46,C3,Tufted,p
+11 Days,Rytidosperma pallidum ,Danthonioideae,Danthonieae,7,12,0,0,NA,NA,6.45,1.86,790,649.46,329,1.97,416.46,C3,Tufted,p
+11 Days,Rytidosperma pallidum ,Danthonioideae,Danthonieae,7,65,0,0,NA,NA,20.37,3.19,790,649.46,329,1.97,416.46,C3,Tufted,p
+11 Days,Rytidosperma pallidum ,Danthonioideae,Danthonieae,7,18,0,0,NA,NA,6.45,2.79,790,649.46,329,1.97,416.46,C3,Tufted,p
+11 Days,Rytidosperma pallidum ,Danthonioideae,Danthonieae,7,21,0,0,NA,NA,6.45,3.26,790,649.46,329,1.97,416.46,C3,Tufted,p
+4 Days,Rytidosperma pilosum,Danthonioideae,Danthonieae,7,92,47,51.09,2,6,13.45,6.84,701,992.52,283,3.51,403.71,C3,Tufted,p
+4 Days,Rytidosperma pilosum,Danthonioideae,Danthonieae,7,94,94,100,2,NA,13.45,6.99,701,992.52,283,3.51,403.71,C3,Tufted,p
+4 Days,Rytidosperma pilosum,Danthonioideae,Danthonieae,7,84,29,34.52,2,NA,25.78,3.26,701,992.52,283,3.51,403.71,C3,Tufted,p
+4 Days,Rytidosperma pilosum,Danthonioideae,Danthonieae,7,131,90,68.7,2,NA,25.78,5.08,701,992.52,283,3.51,403.71,C3,Tufted,p
+4 Days,Rytidosperma pilosum,Danthonioideae,Danthonieae,7,81,138,170.37,2,NA,20.37,3.98,701,992.52,283,3.51,403.71,C3,Tufted,p
+8 Days,Rytidosperma pilosum,Danthonioideae,Danthonieae,7,99,118,119.19,2,NA,25.78,3.84,609,955.46,220,4.34,361.25,C3,Tufted,p
+8 Days,Rytidosperma pilosum,Danthonioideae,Danthonieae,7,82,131,159.76,4,NA,66.92,1.23,609,955.46,220,4.34,361.25,C3,Tufted,p
+8 Days,Rytidosperma pilosum,Danthonioideae,Danthonieae,7,75,64,85.33,2,NA,13.45,5.58,609,955.46,220,4.34,361.25,C3,Tufted,p
+8 Days,Rytidosperma pilosum,Danthonioideae,Danthonieae,7,76,132,173.68,2,NA,17.9,4.24,609,955.46,220,4.34,361.25,C3,Tufted,p
+8 Days,Rytidosperma pilosum,Danthonioideae,Danthonieae,7,93,74,79.57,2,NA,38.52,2.41,609,955.46,220,4.34,361.25,C3,Tufted,p
+11 Days,Rytidosperma pilosum,Danthonioideae,Danthonieae,7,81,62,76.54,2,NA,38.52,2.1,638,942.74,236,3.99,369.91,C3,Tufted,p
+11 Days,Rytidosperma pilosum,Danthonioideae,Danthonieae,7,61,97,159.02,2,NA,17.9,3.41,638,942.74,236,3.99,369.91,C3,Tufted,p
+11 Days,Rytidosperma pilosum,Danthonioideae,Danthonieae,7,111,91,81.98,2,NA,28.73,3.86,638,942.74,236,3.99,369.91,C3,Tufted,p
+11 Days,Rytidosperma pilosum,Danthonioideae,Danthonieae,7,80,115,143.75,2,NA,11.46,6.98,638,942.74,236,3.99,369.91,C3,Tufted,p
+11 Days,Rytidosperma pilosum,Danthonioideae,Danthonieae,7,114,98,85.96,2,NA,15.6,7.31,638,942.74,236,3.99,369.91,C3,Tufted,p
+4 Days,Rytidosperma indutum,Danthonioideae,Danthonieae,7,85,72,84.71,2,NA,20.37,4.17,1865,2348.62,774,3.03,415.01,C3,Tufted,p
+4 Days,Rytidosperma indutum,Danthonioideae,Danthonieae,7,77,76,98.7,2,NA,23,3.35,1865,2348.62,774,3.03,415.01,C3,Tufted,p
+4 Days,Rytidosperma indutum,Danthonioideae,Danthonieae,7,94,23,24.47,2,NA,31.83,2.95,1865,2348.62,774,3.03,415.01,C3,Tufted,p
+4 Days,Rytidosperma indutum,Danthonioideae,Danthonieae,7,58,3,5.17,4,NA,31.83,1.82,1865,2348.62,774,3.03,415.01,C3,Tufted,p
+4 Days,Rytidosperma indutum,Danthonioideae,Danthonieae,7,84,73,86.9,2,NA,25.78,3.26,1865,2348.62,774,3.03,415.01,C3,Tufted,p
+8 Days,Rytidosperma indutum,Danthonioideae,Danthonieae,7,87,65,74.71,2,10,20.37,4.27,1201,1811.77,455,3.98,378.85,C3,Tufted,p
+8 Days,Rytidosperma indutum,Danthonioideae,Danthonieae,7,62,57,91.94,2,10,23,2.7,1201,1811.77,455,3.98,378.85,C3,Tufted,p
+8 Days,Rytidosperma indutum,Danthonioideae,Danthonieae,7,110,63,57.27,2,7,17.9,6.14,1201,1811.77,455,3.98,378.85,C3,Tufted,p
+8 Days,Rytidosperma indutum,Danthonioideae,Danthonieae,7,104,67,64.42,2,10,28.73,3.62,1201,1811.77,455,3.98,378.85,C3,Tufted,p
+8 Days,Rytidosperma indutum,Danthonioideae,Danthonieae,7,92,76,82.61,2,10,23,4,1201,1811.77,455,3.98,378.85,C3,Tufted,p
+11 Days,Rytidosperma indutum,Danthonioideae,Danthonieae,7,85,83,97.65,4,NA,38.52,2.21,1158,1666.48,499,3.34,430.92,C3,Tufted,p
+11 Days,Rytidosperma indutum,Danthonioideae,Danthonieae,7,76,72,94.74,2,NA,17.9,4.24,1158,1666.48,499,3.34,430.92,C3,Tufted,p
+11 Days,Rytidosperma indutum,Danthonioideae,Danthonieae,7,81,97,119.75,2,NA,20.37,3.98,1158,1666.48,499,3.34,430.92,C3,Tufted,p
+11 Days,Rytidosperma indutum,Danthonioideae,Danthonieae,7,48,71,147.92,2,NA,20.37,2.36,1158,1666.48,499,3.34,430.92,C3,Tufted,p
+11 Days,Rytidosperma indutum,Danthonioideae,Danthonieae,7,46,80,173.91,4,10,23,2,1158,1666.48,499,3.34,430.92,C3,Tufted,p
+4 Days,Rytidosperma racemosum,Danthonioideae,Danthonieae,7,255,0,0,NA,NA,28.73,8.88,1148,1269.33,415,3.06,361.5,C3,Tufted,p
+4 Days,Rytidosperma racemosum,Danthonioideae,Danthonieae,7,297,0,0,NA,NA,23,12.91,1148,1269.33,415,3.06,361.5,C3,Tufted,p
+4 Days,Rytidosperma racemosum,Danthonioideae,Danthonieae,7,206,0,0,NA,NA,17.9,11.51,1148,1269.33,415,3.06,361.5,C3,Tufted,p
+4 Days,Rytidosperma racemosum,Danthonioideae,Danthonieae,7,112,3,2.68,4,NA,23,4.87,1148,1269.33,415,3.06,361.5,C3,Tufted,p
+4 Days,Rytidosperma racemosum,Danthonioideae,Danthonieae,7,286,6,2.1,4,NA,42.1,6.79,1148,1269.33,415,3.06,361.5,C3,Tufted,p
+8 Days,Rytidosperma racemosum,Danthonioideae,Danthonieae,7,193,185,95.85,2,NA,20.37,9.47,546,851.22,178,4.78,326.01,C3,Tufted,p
+8 Days,Rytidosperma racemosum,Danthonioideae,Danthonieae,7,239,76,31.8,4,NA,23,10.39,546,851.22,178,4.78,326.01,C3,Tufted,p
+8 Days,Rytidosperma racemosum,Danthonioideae,Danthonieae,7,182,152,83.52,4,NA,20.37,8.93,546,851.22,178,4.78,326.01,C3,Tufted,p
+8 Days,Rytidosperma racemosum,Danthonioideae,Danthonieae,7,345,0,0,NA,NA,31.83,10.84,546,851.22,178,4.78,326.01,C3,Tufted,p
+8 Days,Rytidosperma racemosum,Danthonioideae,Danthonieae,7,91,0,0,NA,NA,11.46,7.94,546,851.22,178,4.78,326.01,C3,Tufted,p
+11 Days,Rytidosperma racemosum,Danthonioideae,Danthonieae,7,104,95,91.35,4,NA,13.45,7.73,690,1017.17,296,3.44,428.99,C3,Tufted,p
+11 Days,Rytidosperma racemosum,Danthonioideae,Danthonieae,7,238,141,59.24,6,NA,17.9,13.29,690,1017.17,296,3.44,428.99,C3,Tufted,p
+11 Days,Rytidosperma racemosum,Danthonioideae,Danthonieae,7,125,103,82.4,2,NA,17.9,6.98,690,1017.17,296,3.44,428.99,C3,Tufted,p
+11 Days,Rytidosperma racemosum,Danthonioideae,Danthonieae,7,145,40,27.59,4,NA,17.9,8.1,690,1017.17,296,3.44,428.99,C3,Tufted,p
+11 Days,Rytidosperma racemosum,Danthonioideae,Danthonieae,7,126,31,24.6,4,NA,11.46,11,690,1017.17,296,3.44,428.99,C3,Tufted,p
+4 Days,Rytidosperma bipartitum,Danthonioideae,Danthonieae,7,41,18,43.9,6,7,20.37,2.01,1846,1911.99,569,3.36,308.23,C3,Tufted,p
+4 Days,Rytidosperma bipartitum,Danthonioideae,Danthonieae,7,30,9,30,2,6,20.37,1.47,1846,1911.99,569,3.36,308.23,C3,Tufted,p
+4 Days,Rytidosperma bipartitum,Danthonioideae,Danthonieae,7,88,0,0,NA,NA,17.9,4.91,1846,1911.99,569,3.36,308.23,C3,Tufted,p
+4 Days,Rytidosperma bipartitum,Danthonioideae,Danthonieae,7,26,0,0,NA,NA,20.37,1.28,1846,1911.99,569,3.36,308.23,C3,Tufted,p
+4 Days,Rytidosperma bipartitum,Danthonioideae,Danthonieae,7,37,7,18.92,2,8,25.78,1.44,1846,1911.99,569,3.36,308.23,C3,Tufted,p
+8 Days,Rytidosperma bipartitum,Danthonioideae,Danthonieae,7,48,81,168.75,2,9,15.6,3.08,1096,1330.02,314,4.24,286.5,C3,Tufted,p
+8 Days,Rytidosperma bipartitum,Danthonioideae,Danthonieae,7,25,0,0,NA,NA,11.46,2.18,1096,1330.02,314,4.24,286.5,C3,Tufted,p
+8 Days,Rytidosperma bipartitum,Danthonioideae,Danthonieae,7,56,8,14.29,4,7,31.83,1.76,1096,1330.02,314,4.24,286.5,C3,Tufted,p
+8 Days,Rytidosperma bipartitum,Danthonioideae,Danthonieae,7,29,0,0,NA,NA,23,1.26,1096,1330.02,314,4.24,286.5,C3,Tufted,p
+8 Days,Rytidosperma bipartitum,Danthonioideae,Danthonieae,7,39,15,38.46,4,7,15.6,2.5,1096,1330.02,314,4.24,286.5,C3,Tufted,p
+11 Days,Rytidosperma bipartitum,Danthonioideae,Danthonieae,7,87,36,41.38,4,7,17.9,4.86,1112,1586.47,415,3.82,373.2,C3,Tufted,p
+11 Days,Rytidosperma bipartitum,Danthonioideae,Danthonieae,7,30,33,110,2,7,15.6,1.92,1112,1586.47,415,3.82,373.2,C3,Tufted,p
+11 Days,Rytidosperma bipartitum,Danthonioideae,Danthonieae,7,49,22,44.9,2,8,6.45,7.6,1112,1586.47,415,3.82,373.2,C3,Tufted,p
+11 Days,Rytidosperma bipartitum,Danthonioideae,Danthonieae,7,28,22,78.57,2,6,23,1.22,1112,1586.47,415,3.82,373.2,C3,Tufted,p
+11 Days,Rytidosperma bipartitum,Danthonioideae,Danthonieae,7,37,64,172.97,2,NA,15.6,2.37,1112,1586.47,415,3.82,373.2,C3,Tufted,p
+4 Days,Rytidosperma setaceum,Danthonioideae,Danthonieae,7,270,0,0,NA,NA,23,11.74,495,510.71,164,3.11,331.31,C3,Tufted,p
+4 Days,Rytidosperma setaceum,Danthonioideae,Danthonieae,7,123,0,0,NA,NA,17.9,6.87,495,510.71,164,3.11,331.31,C3,Tufted,p
+4 Days,Rytidosperma setaceum,Danthonioideae,Danthonieae,7,196,0,0,NA,NA,20.37,9.62,495,510.71,164,3.11,331.31,C3,Tufted,p
+4 Days,Rytidosperma setaceum,Danthonioideae,Danthonieae,7,274,11,4.01,4,NA,17.9,15.3,495,510.71,164,3.11,331.31,C3,Tufted,p
+4 Days,Rytidosperma setaceum,Danthonioideae,Danthonieae,7,227,11,4.85,4,NA,15.6,14.55,495,510.71,164,3.11,331.31,C3,Tufted,p
+8 Days,Rytidosperma setaceum,Danthonioideae,Danthonieae,7,231,113,48.92,4,NA,20.37,11.34,446,667.77,156,4.28,349.78,C3,Tufted,p
+8 Days,Rytidosperma setaceum,Danthonioideae,Danthonieae,7,187,9,4.81,4,NA,17.9,10.44,446,667.77,156,4.28,349.78,C3,Tufted,p
+8 Days,Rytidosperma setaceum,Danthonioideae,Danthonieae,7,187,0,0,NA,NA,20.37,9.18,446,667.77,156,4.28,349.78,C3,Tufted,p
+8 Days,Rytidosperma setaceum,Danthonioideae,Danthonieae,7,175,192,109.71,2,NA,15.6,11.22,446,667.77,156,4.28,349.78,C3,Tufted,p
+8 Days,Rytidosperma setaceum,Danthonioideae,Danthonieae,7,140,0,0,NA,NA,13.45,10.41,446,667.77,156,4.28,349.78,C3,Tufted,p
+11 Days,Rytidosperma setaceum,Danthonioideae,Danthonieae,7,204,216,105.88,4,NA,17.9,11.39,535,786.99,203,3.88,379.44,C3,Tufted,p
+11 Days,Rytidosperma setaceum,Danthonioideae,Danthonieae,7,126,31,24.6,2,NA,11.46,11,535,786.99,203,3.88,379.44,C3,Tufted,p
+11 Days,Rytidosperma setaceum,Danthonioideae,Danthonieae,7,141,49,34.75,4,NA,11.46,12.3,535,786.99,203,3.88,379.44,C3,Tufted,p
+11 Days,Rytidosperma setaceum,Danthonioideae,Danthonieae,7,322,89,27.64,6,NA,17.9,17.98,535,786.99,203,3.88,379.44,C3,Tufted,p
+11 Days,Rytidosperma setaceum,Danthonioideae,Danthonieae,7,125,0,0,NA,NA,13.45,9.29,535,786.99,203,3.88,379.44,C3,Tufted,p
+4 Days,Rytidosperma semiannulare,Danthonioideae,Danthonieae,7,43,46,106.98,4,NA,13.45,3.2,1462,1789.7,514,3.48,351.57,C3,Tufted,p
+4 Days,Rytidosperma semiannulare,Danthonioideae,Danthonieae,7,67,77,114.93,2,NA,35.09,1.91,1462,1789.7,514,3.48,351.57,C3,Tufted,p
+4 Days,Rytidosperma semiannulare,Danthonioideae,Danthonieae,7,113,20,17.7,2,NA,66.92,1.69,1462,1789.7,514,3.48,351.57,C3,Tufted,p
+4 Days,Rytidosperma semiannulare,Danthonioideae,Danthonieae,7,87,21,24.14,6,NA,20.37,4.27,1462,1789.7,514,3.48,351.57,C3,Tufted,p
+4 Days,Rytidosperma semiannulare,Danthonioideae,Danthonieae,7,42,0,0,NA,NA,11.46,3.67,1462,1789.7,514,3.48,351.57,C3,Tufted,p
+8 Days,Rytidosperma semiannulare,Danthonioideae,Danthonieae,7,50,68,136,2,NA,13.45,3.72,1036,1601.4,476,3.36,459.46,C3,Tufted,p
+8 Days,Rytidosperma semiannulare,Danthonioideae,Danthonieae,7,70,72,102.86,2,NA,31.83,2.2,1036,1601.4,476,3.36,459.46,C3,Tufted,p
+8 Days,Rytidosperma semiannulare,Danthonioideae,Danthonieae,7,73,70,95.89,2,NA,23,3.17,1036,1601.4,476,3.36,459.46,C3,Tufted,p
+8 Days,Rytidosperma semiannulare,Danthonioideae,Danthonieae,7,90,78,86.67,2,NA,42.1,2.14,1036,1601.4,476,3.36,459.46,C3,Tufted,p
+8 Days,Rytidosperma semiannulare,Danthonioideae,Danthonieae,7,52,0,0,NA,NA,17.9,2.9,1036,1601.4,476,3.36,459.46,C3,Tufted,p
+11 Days,Rytidosperma semiannulare,Danthonioideae,Danthonieae,7,99,85,85.86,4,NA,35.09,2.82,1137,1788.33,425,4.21,373.79,C3,Tufted,p
+11 Days,Rytidosperma semiannulare,Danthonioideae,Danthonieae,7,85,121,142.35,4,NA,25.78,3.3,1137,1788.33,425,4.21,373.79,C3,Tufted,p
+11 Days,Rytidosperma semiannulare,Danthonioideae,Danthonieae,7,40,66,165,2,NA,17.9,2.23,1137,1788.33,425,4.21,373.79,C3,Tufted,p
+11 Days,Rytidosperma semiannulare,Danthonioideae,Danthonieae,7,45,61,135.56,2,NA,17.9,2.51,1137,1788.33,425,4.21,373.79,C3,Tufted,p
+11 Days,Rytidosperma semiannulare,Danthonioideae,Danthonieae,7,130,117,90,2,NA,45.84,2.84,1137,1788.33,425,4.21,373.79,C3,Tufted,p
+4 Days,Spinifex  sericeus,Panicoideae,Paniceae,13,1,0,0,NA,NA,0.32,3.14,3073,1453.67,952,1.53,309.79,C4,Stoloniferous,p
+4 Days,Spinifex  sericeus,Panicoideae,Paniceae,13,3,0,0,NA,NA,3.9,0.77,3073,1453.67,952,1.53,309.79,C4,Stoloniferous,p
+4 Days,Spinifex  sericeus,Panicoideae,Paniceae,13,1,0,0,NA,NA,0.72,1.4,3073,1453.67,952,1.53,309.79,C4,Stoloniferous,p
+4 Days,Spinifex  sericeus,Panicoideae,Paniceae,13,10,0,0,NA,NA,11.46,0.87,3073,1453.67,952,1.53,309.79,C4,Stoloniferous,p
+4 Days,Spinifex  sericeus,Panicoideae,Paniceae,13,1,0,0,NA,NA,0.32,3.14,3073,1453.67,952,1.53,309.79,C4,Stoloniferous,p
+8 Days,Spinifex  sericeus,Panicoideae,Paniceae,13,1,0,0,NA,NA,0.08,12.57,4973,3106.54,1675,1.85,336.82,C4,Stoloniferous,p
+8 Days,Spinifex  sericeus,Panicoideae,Paniceae,13,2,0,0,NA,NA,5.09,0.39,4973,3106.54,1675,1.85,336.82,C4,Stoloniferous,p
+8 Days,Spinifex  sericeus,Panicoideae,Paniceae,13,5,0,0,NA,NA,7.96,0.63,4973,3106.54,1675,1.85,336.82,C4,Stoloniferous,p
+8 Days,Spinifex  sericeus,Panicoideae,Paniceae,13,1,0,0,NA,NA,0.08,12.57,4973,3106.54,1675,1.85,336.82,C4,Stoloniferous,p
+8 Days,Spinifex  sericeus,Panicoideae,Paniceae,13,1,0,0,NA,NA,0.08,12.57,4973,3106.54,1675,1.85,336.82,C4,Stoloniferous,p
+11 Days,Spinifex  sericeus,Panicoideae,Paniceae,13,4,0,0,NA,NA,6.45,0.62,4608,3399.08,1449,2.35,314.45,C4,Stoloniferous,p
+11 Days,Spinifex  sericeus,Panicoideae,Paniceae,13,4,4,100,12,NA,5.09,0.79,4608,3399.08,1449,2.35,314.45,C4,Stoloniferous,p
+11 Days,Spinifex  sericeus,Panicoideae,Paniceae,13,11,0,0,NA,NA,9.63,1.14,4608,3399.08,1449,2.35,314.45,C4,Stoloniferous,p
+11 Days,Spinifex  sericeus,Panicoideae,Paniceae,13,3,0,0,NA,NA,6.45,0.47,4608,3399.08,1449,2.35,314.45,C4,Stoloniferous,p
+11 Days,Spinifex  sericeus,Panicoideae,Paniceae,13,4,0,0,NA,NA,5.09,0.79,4608,3399.08,1449,2.35,314.45,C4,Stoloniferous,p
+4 Days,Sporobolus virginicus,Chloridoideae,Cynodonteae,9,111,24,21.62,4,NA,53.79,2.06,406,721.98,117,6.17,288.18,C4,Rhizomatous,p
+4 Days,Sporobolus virginicus,Chloridoideae,Cynodonteae,9,67,18,26.87,4,NA,232.05,0.29,406,721.98,117,6.17,288.18,C4,Rhizomatous,p
+4 Days,Sporobolus virginicus,Chloridoideae,Cynodonteae,9,92,5,5.43,4,NA,71.62,1.28,406,721.98,117,6.17,288.18,C4,Rhizomatous,p
+4 Days,Sporobolus virginicus,Chloridoideae,Cynodonteae,9,65,22,33.85,4,NA,147.14,0.44,406,721.98,117,6.17,288.18,C4,Rhizomatous,p
+4 Days,Sporobolus virginicus,Chloridoideae,Cynodonteae,9,59,34,57.63,8,NA,71.62,0.82,406,721.98,117,6.17,288.18,C4,Rhizomatous,p
+8 Days,Sporobolus virginicus,Chloridoideae,Cynodonteae,9,58,47,81.03,4,NA,127.32,0.46,291,759.89,89,8.54,305.84,C4,Rhizomatous,p
+8 Days,Sporobolus virginicus,Chloridoideae,Cynodonteae,9,35,48,137.14,4,NA,62.39,0.56,291,759.89,89,8.54,305.84,C4,Rhizomatous,p
+8 Days,Sporobolus virginicus,Chloridoideae,Cynodonteae,9,79,12,15.19,6,NA,168.39,0.47,291,759.89,89,8.54,305.84,C4,Rhizomatous,p
+8 Days,Sporobolus virginicus,Chloridoideae,Cynodonteae,9,38,32,84.21,6,NA,183.35,0.21,291,759.89,89,8.54,305.84,C4,Rhizomatous,p
+8 Days,Sporobolus virginicus,Chloridoideae,Cynodonteae,9,36,17,47.22,4,NA,133.77,0.27,291,759.89,89,8.54,305.84,C4,Rhizomatous,p
+11 Days,Sporobolus virginicus,Chloridoideae,Cynodonteae,9,51,27,52.94,4,NA,175.79,0.29,284,680.29,87,7.82,306.34,C4,Rhizomatous,p
+11 Days,Sporobolus virginicus,Chloridoideae,Cynodonteae,9,70,41,58.57,4,NA,38.52,1.82,284,680.29,87,7.82,306.34,C4,Rhizomatous,p
+11 Days,Sporobolus virginicus,Chloridoideae,Cynodonteae,9,58,49,84.48,4,NA,215.18,0.27,284,680.29,87,7.82,306.34,C4,Rhizomatous,p
+11 Days,Sporobolus virginicus,Chloridoideae,Cynodonteae,9,62,61,98.39,6,NA,168.39,0.37,284,680.29,87,7.82,306.34,C4,Rhizomatous,p
+11 Days,Sporobolus virginicus,Chloridoideae,Cynodonteae,9,47,40,85.11,4,NA,71.62,0.66,284,680.29,87,7.82,306.34,C4,Rhizomatous,p
+4 Days,Tetrarrhena juncea,Ehrhartoideae,Ehrharteae,8,6,0,0,NA,NA,28.73,0.21,727,1336.16,246,5.43,338.38,C3,Rhizomatous,p
+4 Days,Tetrarrhena juncea,Ehrhartoideae,Ehrharteae,8,35,0,0,NA,NA,20.37,1.72,727,1336.16,246,5.43,338.38,C3,Rhizomatous,p
+4 Days,Tetrarrhena juncea,Ehrhartoideae,Ehrharteae,8,31,0,0,NA,NA,81.49,0.38,727,1336.16,246,5.43,338.38,C3,Rhizomatous,p
+4 Days,Tetrarrhena juncea,Ehrhartoideae,Ehrharteae,8,29,0,0,NA,NA,58.01,0.5,727,1336.16,246,5.43,338.38,C3,Rhizomatous,p
+4 Days,Tetrarrhena juncea,Ehrhartoideae,Ehrharteae,8,51,0,0,NA,NA,28.73,1.78,727,1336.16,246,5.43,338.38,C3,Rhizomatous,p
+8 Days,Tetrarrhena juncea,Ehrhartoideae,Ehrharteae,8,4,0,0,NA,NA,15.6,0.26,454,897.13,155,5.79,341.41,C3,Rhizomatous,p
+8 Days,Tetrarrhena juncea,Ehrhartoideae,Ehrharteae,8,31,1,3.23,28,NA,66.92,0.46,454,897.13,155,5.79,341.41,C3,Rhizomatous,p
+8 Days,Tetrarrhena juncea,Ehrhartoideae,Ehrharteae,8,38,0,0,NA,NA,103.13,0.37,454,897.13,155,5.79,341.41,C3,Rhizomatous,p
+8 Days,Tetrarrhena juncea,Ehrhartoideae,Ehrharteae,8,24,0,0,NA,NA,11.46,2.09,454,897.13,155,5.79,341.41,C3,Rhizomatous,p
+8 Days,Tetrarrhena juncea,Ehrhartoideae,Ehrharteae,8,46,0,0,NA,NA,17.9,2.57,454,897.13,155,5.79,341.41,C3,Rhizomatous,p
+11 Days,Tetrarrhena juncea,Ehrhartoideae,Ehrharteae,8,39,0,0,NA,NA,38.52,1.01,381,600.23,132,4.55,346.46,C3,Rhizomatous,p
+11 Days,Tetrarrhena juncea,Ehrhartoideae,Ehrharteae,8,21,0,0,NA,NA,9.63,2.18,381,600.23,132,4.55,346.46,C3,Rhizomatous,p
+11 Days,Tetrarrhena juncea,Ehrhartoideae,Ehrharteae,8,6,0,0,NA,NA,15.6,0.38,381,600.23,132,4.55,346.46,C3,Rhizomatous,p
+11 Days,Tetrarrhena juncea,Ehrhartoideae,Ehrharteae,8,49,0,0,NA,NA,13.45,3.64,381,600.23,132,4.55,346.46,C3,Rhizomatous,p
+11 Days,Tetrarrhena juncea,Ehrhartoideae,Ehrharteae,8,37,0,0,NA,NA,133.77,0.28,381,600.23,132,4.55,346.46,C3,Rhizomatous,p
+4 Days,Themeda triandra,Panicoideae,Andropogoneae,12,142,123,86.62,4,NA,62.39,2.28,2140,3340.6,764,4.37,357.01,C4,Tufted,p
+4 Days,Themeda triandra,Panicoideae,Andropogoneae,12,72,139,193.06,4,NA,49.74,1.45,2140,3340.6,764,4.37,357.01,C4,Tufted,p
+4 Days,Themeda triandra,Panicoideae,Andropogoneae,12,119,72,60.5,4,10,53.79,2.21,2140,3340.6,764,4.37,357.01,C4,Tufted,p
+4 Days,Themeda triandra,Panicoideae,Andropogoneae,12,136,132,97.06,2,NA,91.99,1.48,2140,3340.6,764,4.37,357.01,C4,Tufted,p
+4 Days,Themeda triandra,Panicoideae,Andropogoneae,12,108,88,81.48,6,NA,66.92,1.61,2140,3340.6,764,4.37,357.01,C4,Tufted,p
+8 Days,Themeda triandra,Panicoideae,Andropogoneae,12,77,85,110.39,2,NA,38.52,2,1547,3002.77,607,4.95,392.37,C4,Tufted,p
+8 Days,Themeda triandra,Panicoideae,Andropogoneae,12,114,107,93.86,2,NA,58.01,1.97,1547,3002.77,607,4.95,392.37,C4,Tufted,p
+8 Days,Themeda triandra,Panicoideae,Andropogoneae,12,100,64,64,2,NA,49.74,2.01,1547,3002.77,607,4.95,392.37,C4,Tufted,p
+8 Days,Themeda triandra,Panicoideae,Andropogoneae,12,102,126,123.53,4,NA,35.09,2.91,1547,3002.77,607,4.95,392.37,C4,Tufted,p
+8 Days,Themeda triandra,Panicoideae,Andropogoneae,12,150,122,81.33,2,NA,49.74,3.02,1547,3002.77,607,4.95,392.37,C4,Tufted,p
+11 Days,Themeda triandra,Panicoideae,Andropogoneae,12,80,136,170,4,NA,35.09,2.28,758,1670.22,305,5.48,402.37,C4,Tufted,p
+11 Days,Themeda triandra,Panicoideae,Andropogoneae,12,99,75,75.76,2,NA,58.01,1.71,758,1670.22,305,5.48,402.37,C4,Tufted,p
+11 Days,Themeda triandra,Panicoideae,Andropogoneae,12,110,79,71.82,2,NA,31.83,3.46,758,1670.22,305,5.48,402.37,C4,Tufted,p
+11 Days,Themeda triandra,Panicoideae,Andropogoneae,12,61,87,142.62,2,NA,49.74,1.23,758,1670.22,305,5.48,402.37,C4,Tufted,p
+11 Days,Themeda triandra,Panicoideae,Andropogoneae,12,143,119,83.22,8,NA,38.52,3.71,758,1670.22,305,5.48,402.37,C4,Tufted,p
+4 Days,Walwhalleya proluta,Panicoideae,Paniceae,5,22,0,0,NA,NA,7.96,2.76,825,1605.24,223,7.2,270.3,C3,"Tufted, shortly rhizomatous",p
+4 Days,Walwhalleya proluta,Panicoideae,Paniceae,5,22,0,0,NA,NA,9.63,2.28,825,1605.24,223,7.2,270.3,C3,"Tufted, shortly rhizomatous",p
+4 Days,Walwhalleya proluta,Panicoideae,Paniceae,5,9,0,0,NA,NA,38.52,0.23,825,1605.24,223,7.2,270.3,C3,"Tufted, shortly rhizomatous",p
+4 Days,Walwhalleya proluta,Panicoideae,Paniceae,5,13,0,0,NA,NA,25.78,0.5,825,1605.24,223,7.2,270.3,C3,"Tufted, shortly rhizomatous",p
+4 Days,Walwhalleya proluta,Panicoideae,Paniceae,5,14,0,0,NA,NA,17.9,0.78,825,1605.24,223,7.2,270.3,C3,"Tufted, shortly rhizomatous",p
+8 Days,Walwhalleya proluta,Panicoideae,Paniceae,5,16,0,0,NA,NA,7.96,2.01,461,1038.27,109,9.53,236.44,C3,"Tufted, shortly rhizomatous",p
+8 Days,Walwhalleya proluta,Panicoideae,Paniceae,5,17,0,0,NA,NA,11.46,1.48,461,1038.27,109,9.53,236.44,C3,"Tufted, shortly rhizomatous",p
+8 Days,Walwhalleya proluta,Panicoideae,Paniceae,5,20,0,0,NA,NA,9.63,2.08,461,1038.27,109,9.53,236.44,C3,"Tufted, shortly rhizomatous",p
+8 Days,Walwhalleya proluta,Panicoideae,Paniceae,5,21,0,0,NA,NA,7.96,2.64,461,1038.27,109,9.53,236.44,C3,"Tufted, shortly rhizomatous",p
+8 Days,Walwhalleya proluta,Panicoideae,Paniceae,5,17,0,0,NA,NA,31.83,0.53,461,1038.27,109,9.53,236.44,C3,"Tufted, shortly rhizomatous",p
+11 Days,Walwhalleya proluta,Panicoideae,Paniceae,5,12,0,0,NA,NA,11.46,1.05,407,905.58,124,7.3,304.67,C3,"Tufted, shortly rhizomatous",p
+11 Days,Walwhalleya proluta,Panicoideae,Paniceae,5,10,0,0,NA,NA,5.09,1.96,407,905.58,124,7.3,304.67,C3,"Tufted, shortly rhizomatous",p
+11 Days,Walwhalleya proluta,Panicoideae,Paniceae,5,12,0,0,NA,NA,6.45,1.86,407,905.58,124,7.3,304.67,C3,"Tufted, shortly rhizomatous",p
+11 Days,Walwhalleya proluta,Panicoideae,Paniceae,5,16,0,0,NA,NA,6.45,2.48,407,905.58,124,7.3,304.67,C3,"Tufted, shortly rhizomatous",p
+11 Days,Walwhalleya proluta,Panicoideae,Paniceae,5,10,0,0,NA,NA,9.63,1.04,407,905.58,124,7.3,304.67,C3,"Tufted, shortly rhizomatous",p
+4 Days,Zoysia macrantha,Chloridoideae,Cynodonteae,9,27,6,22.22,4,NA,76.47,0.35,591,1088.1,167,6.52,282.57,C4,Rhizomatous,p
+4 Days,Zoysia macrantha,Chloridoideae,Cynodonteae,9,35,14,40,4,NA,175.79,0.2,591,1088.1,167,6.52,282.57,C4,Rhizomatous,p
+4 Days,Zoysia macrantha,Chloridoideae,Cynodonteae,9,33,10,30.3,2,NA,121.04,0.27,591,1088.1,167,6.52,282.57,C4,Rhizomatous,p
+4 Days,Zoysia macrantha,Chloridoideae,Cynodonteae,9,57,10,17.54,6,NA,168.39,0.34,591,1088.1,167,6.52,282.57,C4,Rhizomatous,p
+4 Days,Zoysia macrantha,Chloridoideae,Cynodonteae,9,43,17,39.53,4,NA,81.49,0.53,591,1088.1,167,6.52,282.57,C4,Rhizomatous,p
+8 Days,Zoysia macrantha,Chloridoideae,Cynodonteae,9,30,81,270,4,NA,191.07,0.16,533,1263.96,168,7.52,315.2,C4,Rhizomatous,p
+8 Days,Zoysia macrantha,Chloridoideae,Cynodonteae,9,28,45,160.71,4,NA,223.53,0.13,533,1263.96,168,7.52,315.2,C4,Rhizomatous,p
+8 Days,Zoysia macrantha,Chloridoideae,Cynodonteae,9,58,93,160.34,4,NA,206.98,0.28,533,1263.96,168,7.52,315.2,C4,Rhizomatous,p
+8 Days,Zoysia macrantha,Chloridoideae,Cynodonteae,9,38,20,52.63,4,NA,86.66,0.44,533,1263.96,168,7.52,315.2,C4,Rhizomatous,p
+8 Days,Zoysia macrantha,Chloridoideae,Cynodonteae,9,27,11,40.74,4,NA,127.32,0.21,533,1263.96,168,7.52,315.2,C4,Rhizomatous,p
+11 Days,Zoysia macrantha,Chloridoideae,Cynodonteae,9,37,26,70.27,4,NA,133.77,0.28,452,1002.78,153,6.55,338.5,C4,Rhizomatous,p
+11 Days,Zoysia macrantha,Chloridoideae,Cynodonteae,9,44,60,136.36,4,NA,198.94,0.22,452,1002.78,153,6.55,338.5,C4,Rhizomatous,p
+11 Days,Zoysia macrantha,Chloridoideae,Cynodonteae,9,45,25,55.56,4,NA,183.35,0.25,452,1002.78,153,6.55,338.5,C4,Rhizomatous,p
+11 Days,Zoysia macrantha,Chloridoideae,Cynodonteae,9,49,85,173.47,4,NA,147.14,0.33,452,1002.78,153,6.55,338.5,C4,Rhizomatous,p
+11 Days,Zoysia macrantha,Chloridoideae,Cynodonteae,9,28,18,64.29,4,NA,97.48,0.29,452,1002.78,153,6.55,338.5,C4,Rhizomatous,p

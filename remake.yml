@@ -1,0 +1,25 @@
+packages:
+  
+
+sources:
+  - 'R'
+
+plot_options:
+  A4_landscape:
+    width: 6
+    height: 4
+    
+targets:
+  all:
+    depends:
+      - 
+ 
+  #------------- Load data --------------------------- 
+  
+
+  #------------- Run stan models ---------------------------
+
+
+  
+  #------------- make figures ---------------------------
+
