@@ -1,4 +1,4 @@
-
+# Stan model
 run_stan_model <- function(data, sim_pretillers=NULL, sim_ldmc = NULL) {
   
   if(is.null(sim_pretillers)) {

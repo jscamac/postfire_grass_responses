@@ -1,3 +1,4 @@
+# Plots coefficients
 coefficient_plot <- function(model, params ='count',xlab ='Effect size', title=NULL) {
   if(params == "count") {
     output <- summarise_coefficients(model, rev(c('b_tribe_mu',"b_trt","b_c4","b_ldmc","b_tpre","phi")))
@@ -25,7 +26,7 @@ coefficient_plot <- function(model, params ='count',xlab ='Effect size', title=N
     theme_classic()
 }
 
-
+# Plots discrete predictor partial plots
 plot_pred_discrete <- function(model,params = "count", xlab="Days between watering", legend="right") {
   
   if(params == "count") { 
@@ -63,7 +64,7 @@ plot_pred_discrete <- function(model,params = "count", xlab="Days between wateri
     theme(legend.position=legend)
 }
 
-
+# Plots continous predictor partial plots
 plot_pred_continuous <- function(model, params, covariate, xlab="Days between watering", xlim=NULL, ylim=NULL, legend="right") {
   
   if(params == "count" & covariate == "prefire tillers") { 
@@ -122,6 +123,7 @@ plot_pred_continuous <- function(model, params, covariate, xlab="Days between wa
     theme_classic() + theme(legend.position=legend)
 }
 
+# Plots mortality panel plots
 plot_partial_mortality <- function(model) {
   p1 <- coefficient_plot(model, "mortality", xlab ='logit(Coefficient)')
   p2 <- plot_pred_discrete(model, "mortality", legend=c(0.85,0.8))
@@ -130,6 +132,7 @@ plot_partial_mortality <- function(model) {
   cowplot::plot_grid(p1,p2,p3,p4, ncol=2, labels=paste0('(',letters[1:4],')'), label_size = 9)
 }
 
+# Plots count panel plots
 plot_partial_count <- function(model) {
   p1 <- coefficient_plot(model, xlab ='log(Coefficient)')
   p2 <- plot_pred_discrete(model, "count", legend=c(0.25,0.8))
@@ -138,7 +141,7 @@ plot_partial_count <- function(model) {
   cowplot::plot_grid(p1,p2,p3,p4, ncol=2, labels=paste0('(',letters[1:4],')'), label_size = 9)
 }
 
-# Plot species parameters (For figS3 to figS5)
+# Plots random effects
 plot_random_effect <- function(model,random_effect,xlab ='Effects', title=NULL, legend="none") {
   
   if(random_effect %in% c("a_tribe", "b_tribe")) {
@@ -177,6 +180,7 @@ plot_random_effect <- function(model,random_effect,xlab ='Effects', title=NULL, 
           plot.title = element_text(hjust = 0.5, size=7, face ="bold"))
 }
 
+# Plots panel plots of tribe effects
 plot_tribe_effects <- function(model) {
   p1 <- plot_random_effect(model, "a_tribe", "logit(effect)", title="Mortality model",  legend = c(0.90,0.5)) +
     theme(text = element_text(size=7))
@@ -185,6 +189,7 @@ plot_tribe_effects <- function(model) {
   cowplot::plot_grid(p1,p2, ncol=1, labels=paste0('(',letters[1:2],')'), label_size = 7)
 }
 
+# Plots panel plots of species effects
 plot_spp_effects <- function(model) {
   p1 <- plot_random_effect(model, "a_spp", "logit(effect)", title="Mortality model", legend = c(0.90,0.5)) + 
     theme(text = element_text(size=7),
