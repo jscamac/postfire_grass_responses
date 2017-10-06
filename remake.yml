@@ -1,25 +1,56 @@
 packages:
+  - readr
+  - rstan
+  - dplyr
+  - cowplot
+  - ggplot2
   
 
 sources:
   - 'R'
 
 plot_options:
-  A4_landscape:
-    width: 6
-    height: 4
+  2col_square:
+    width: 6.6
+    height: 6.6
+    
+  1col_portrait:
+    width: 3.46
+    height: 6.6
     
 targets:
   all:
     depends:
-      - 
+      - resprout_model
+      - figures/mortality_partial_plots.pdf
+      - figures/count_partial_plots.pdf
+      - figures/tribe_effects.pdf
+      - figures/spp_effects.pdf
  
   #------------- Load data --------------------------- 
-  
+  resprout_data:
+    command: load_data("raw_data/data.csv")
+    cleanup_level: purge
 
   #------------- Run stan models ---------------------------
-
-
+  resprout_model:
+    command: run_stan_model(resprout_data)
+    cleanup_level: purge
   
   #------------- make figures ---------------------------
+  figures/mortality_partial_plots.pdf:
+    command: plot_partial_mortality(resprout_model)
+    plot: 2col_square
+
+  figures/count_partial_plots.pdf:
+    command: plot_partial_count(resprout_model)
+    plot: 2col_square
+
+  figures/tribe_effects.pdf:
+    command: plot_tribe_effects(resprout_model)
+    plot: 1col_portrait
+
+  figures/spp_effects.pdf:
+    command: plot_spp_effects(resprout_model)
+    plot: 1col_portrait
 
