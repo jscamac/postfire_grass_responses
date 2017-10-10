@@ -93,16 +93,9 @@ If your image only includes base `R` you can access it via the terminal by openi
 ### Accessing the docker terminal
 If you're comfortable with running work directly via R from a terminal or your image only includes base `R` run:
 
-**For Mac & Linux users**
-
 ```
 docker run -v /Users/path/to/repository/:/home/rstan_build  -it jscamac/rstan_build
 
-```
-**For Windows users**
-
-```
-docker run -v /Users/path/to/repository/:/home/rstan_build  -it jscamac/rstan_build
 ```
 
 ### Accessing Rstudio from within docker
@@ -110,7 +103,7 @@ If you are more comfortable with running code using a GUI interface such as Rstu
 To do this you must have a docker image that contains Rstudio.
 
 ```
-docker run -v c:\path\to\repository:/home/rstan_build:/home/rstudio -p 8787:8787 rstan_build
+docker run -v /Users/path/to/repository/:/home/rstan_build:/home/rstudio -p 8787:8787 rstan_build
 ```
 Now just open your web browser and go to the following: `localhost:8787/`
 
@@ -122,3 +115,7 @@ Now the final stage is to rerun the entire workflow by simply running:
 ```
 remake::make()
 ```
+
+
+## Problems?
+If you have any problems getting the workflow to run please create an issue and I will endevour to remedy it ASAP.
