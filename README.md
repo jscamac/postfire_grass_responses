@@ -96,13 +96,13 @@ If you're comfortable with running work directly via R from a terminal or your i
 **For Mac & Linux users**
 
 ```
-docker run -v /Users/path/to/repository:/home/rstan_build  -it jscamac/rstan_build
+docker run -v /Users/path/to/repository/:/home/rstan_build  -it jscamac/rstan_build
 
 ```
 **For Windows users**
 
 ```
-docker run -v c:\path\to\repository:/home/rstan_build  -it jscamac/rstan_build
+docker run -v /Users/path/to/repository/:/home/rstan_build  -it jscamac/rstan_build
 ```
 
 ### Accessing Rstudio from within docker
@@ -115,9 +115,6 @@ docker run -v c:\path\to\repository:/home/rstan_build:/home/rstudio -p 8787:8787
 Now just open your web browser and go to the following: `localhost:8787/`
 
 The username and password is `rstudio`
-
-*In both cases the flag `-v` mounts the local directory `/Users/path/to/remake_baad_example`, into the container at `/home/rstan_build`. What this allows is for any results produced in the container to automatically be saved onto the local directory. This means that you can play with the results, data and figures outside the docker container later.*
-
 
 ### Rerunning analysis from within docker
 Now the final stage is to rerun the entire workflow by simply running:
