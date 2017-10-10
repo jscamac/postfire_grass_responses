@@ -73,7 +73,7 @@ plot_pred_continuous <- function(model, params, covariate, xlab="Days between wa
              Type = factor(ifelse(grepl("c3", .$parameter)==TRUE, "C3", "C4")))
     
     ylab=expression("Number of postfire tillers")
-    xlab=expression("Prefire tiller density"~(cm^2))
+    xlab=expression("Prefire tiller density"~(cm^{-2}))
   }
   
   if(params == "count" & covariate == "ldmc") { 
@@ -82,7 +82,7 @@ plot_pred_continuous <- function(model, params, covariate, xlab="Days between wa
              Type = factor(ifelse(grepl("c3", .$parameter)==TRUE, "C3", "C4")))
     
     ylab=expression("Number of postfire tillers")
-    xlab=expression("Leaf dry matter content"~(mg~g^-1))
+    xlab=expression("Leaf dry matter content"~(mg~g^{-1}))
   }
   
   if(params == "mortality" & covariate == "prefire tillers") { 
@@ -91,7 +91,7 @@ plot_pred_continuous <- function(model, params, covariate, xlab="Days between wa
              Type = factor(ifelse(grepl("c3", .$parameter)==TRUE, "C3", "C4")))
     
     ylab=expression("Probability of death")
-    xlab=expression("Prefire tiller density"~(cm^2))
+    xlab=expression("Prefire tiller density"~(cm^{-2}))
   }
   
   if(params == "mortality" & covariate == "ldmc") { 
@@ -100,7 +100,7 @@ plot_pred_continuous <- function(model, params, covariate, xlab="Days between wa
              Type = factor(ifelse(grepl("c3", .$parameter)==TRUE, "C3", "C4")))
     
     ylab=expression("Probability of death")
-    xlab=expression("Leaf dry matter content"~(mg~g^-1))
+    xlab=expression("Leaf dry matter content"~(mg~g^{-1}))
   }
   
   if(!params %in% c("count", "mortality")) {
