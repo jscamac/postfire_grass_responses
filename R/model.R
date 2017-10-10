@@ -107,10 +107,10 @@ model {
   b_raw_tribe ~ normal(0,1);
   b_spp ~ normal(0, b_spp_sd);
   b_spp_sd ~ cauchy(0,5);
-  b_trt ~ normal(0,5);
-  b_ldmc ~ normal(0,5);
-  b_c4 ~ normal(0,5);
-  b_tpre ~ normal(0,5);
+  b_trt ~ cauchy(0,5);
+  b_ldmc ~ cauchy(0,5);
+  b_c4 ~ cauchy(0,5);
+  b_tpre ~ cauchy(0,5);
   
   // Likelihood
   

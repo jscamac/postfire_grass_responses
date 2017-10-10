@@ -184,7 +184,7 @@ plot_random_effect <- function(model,random_effect,xlab ='Effects', title=NULL, 
 plot_tribe_effects <- function(model) {
   p1 <- plot_random_effect(model, "a_tribe", "logit(effect)", title="Mortality model",  legend = c(0.90,0.5)) +
     theme(text = element_text(size=7))
-  p2 <- plot_random_effect(model, "b_tribe", "log(effect)", title="Count model") +
+  p2 <- plot_random_effect(model, "b_tribe", "log(effect)", title="Post-fire tiller abundance model") +
     theme(text = element_text(size=7))
   cowplot::plot_grid(p1,p2, ncol=1, labels=paste0('(',letters[1:2],')'), label_size = 7)
 }
@@ -195,7 +195,7 @@ plot_spp_effects <- function(model) {
     theme(text = element_text(size=7),
           axis.text.y = element_text(size=3.5))
   
-  p2 <- plot_random_effect(model, "b_spp", "log(effect)", title="Count model") + 
+  p2 <- plot_random_effect(model, "b_spp", "log(effect)", title="Post-fire tiller abundance model") + 
     theme(text = element_text(size=7),
           axis.text.y = element_text(size=3.5))
   cowplot::plot_grid(p1,p2, ncol=1, labels=paste0('(',letters[1:2],')'), label_size = 9)
