@@ -1,0 +1,99 @@
+---
+title: "Effects of drought and fire on resprouting of 52 temperate Australian perennial native grasses"
+author: "Nicholas A. Moore, James S. Camac and John W. Morgan"
+output:
+  bookdown::pdf_document2:
+    highlight: tango
+    toc: no
+    citation_package: natbib
+biblio-style: refs.bst
+bibliography: refs.bib
+linkcolor: blue
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+# Supplementary{-} 
+
+We used Bayesian inference and fitted model in R 3.4.1 using package \texttt{rstan} 2.16.2 [@stan:2016xx]. Continuous covariates (LDMC and Pre-fire tiller density) were each centered on their respective means (337 mg g$^{-1}$ and 2.95 cm$^{-2}$) and standardized by two standard deviations [@Gelman:2007te]. The model was run using three independent chains and model convergence was assessed through both visual inspection of chains and reference to the Brooks-Gelman-Rubin convergence diagnostic [@Gelman:1992ts;@Brooks:1998ju]. All modelled parameters converged within 1000 iterations. After discarding the first 1000 iterations as ‘warm up’, a further 1000 samples were taken from the joint posterior. Below we describe the model structure, parameters and priors used in these models. Data and source code for reproducing analysis and figures is available at: \url{https://github.com/jscamac/postfire_grass_responses}.
+
+## The model{-} 
+The focus of this study was to examine how drought stress affected resprouting capacity in 52 temperate perennial grasses, and how such responses varied as a function of  tiller density, species traits (i.e. photosynthetic pathway, LDMC) and grass tribe. Resprouting capacity may be examined as a binomial process that estimates the probability a plant will survive/resprout post-fire. While this provides invaluable informaiton, it provides no information on the strength of resprouting conditioned on the plant surviving. For this reason, we decided to fit our data to a zero-inflated negative binomial model. This model has several statistical properties that make suitable for examining post-fire responses. First, it is a common statistical alternative to the standard poisson models for dealing with over-dispersed count data [@Zuur:2009ww]. More importantly however, is that the model fits the data as a function of two sub-models; one which which estimates the probability of survival post-fire, and another which estimates the number of resprouting tillers, conditional on surviving (i.e. a proxy for resprouting strength). Thus, this model simulatenously allows us to examine how drought treatment and other covariates influence both biological processes. We outline the model and how it was fit below.
+
+Our response variable, $y_i$, was the number of observed resprout tillers 10--weeks post-fire. We modelled these data as a function of a zero-inflated negative binomial:
+\begin{equation}
+\label{eqn:1}
+y_i =
+\begin{cases}
+p_i + (1 - p_i) \times NB(0 | \lambda_i, \phi), & \text{if}\ y_i=0, \text{and} \\
+(1 - p_i) \times NB(y_i | \lambda_i, \phi), & \text{if}\ y_i > 0.
+\end{cases}
+\end{equation}
+
+$p_i$ is the probability an individual grass, $i$, fails to resprout 10--weeks post-fire. $\lambda_i$ is the log expected number of resprouting tillers, conditional on the individual surviving, and $\phi$ is the overdispersion parameter of the negative binomial. $y_i$ was found to be significantly overdispersed $\phi$ = 3.44 (95\% BCI 3.03--3.88), so we did not revert to a simpler zero-inflated poisson model.
+
+Below we model describe how $p_i$ and $\lambda_i$ were modelled by partitioning the problem into the respective biological proccess they address.
+
+\clearpage
+
+### Mortality sub-model{-} 
+
+We modelled $p_i$ as a random realisation from a Bernoulli distribution:
+
+\begin{equation}
+\label{eqn:2}
+p_i \sim Bern(\bar{p_i}),
+\end{equation}
+
+where $\bar{p_i}$, was estimated on the as a function of:
+
+\begin{equation}
+\begin{aligned}
+\label{eqn:3}
+\log\left(\frac{\bar{p_i}}{1 - \bar{p_i}}\right) &= \alpha_0 + \alpha_1 \times \text{treatment}_i + \alpha_2 \times \text{C4}_i + \alpha_3 \times \text{LDMC}_i + \alpha_4 \times \text{tiller density}_i + \epsilon_{tribe_{k[i]}} + \epsilon_{spp_{j[i]}} \\
+\epsilon_{tribe_k} &\sim \mathcal{N}(0, \sigma_{tribe}) \\
+\epsilon_{spp_j} &\sim \mathcal{N}(0, \sigma_{spp}).
+\end{aligned}
+\end{equation}
+
+Here, the mean intercept, $\alpha_0$ represents the predicted logit probability of death for a C$_3$ grass from an average hypothetical species and tribe growing in the 4-day watering treatment with a mean leaf dry matter content (i.e 337 mg g$^{-1}$) and mean pre-fire tiller density (i.e. 2.95 cm$^{-2}$). $\alpha_1$--$\alpha_4$, represent the effects of 8-day watering treatment (if treatment = 1) or 11-day watering treatment (if treatment = 2), being a C$_4$ grass, Leaf Dry Matter Content and pre-fire tiller density, respectively. $\epsilon_{tribe_{k[i]}}$ and $\epsilon_{spp_j[i]}$ represents the residual variation attributable to grass tribe, $k$, and species, $j$, in which individual $i$ belongs.
+
+
+### Post-fire tiller abundance sub-model{-} 
+Because the covariates we wished to examine could influence either the mortality process or the number of post-fire tillers, we modelled $lambda_i$ using a similar varying intercept model to eqn:\@ref(eqn:3), such that:
+
+\begin{equation}
+\begin{aligned}
+\label{eqn:4}
+\log(\lambda_i) &= \beta_0 + \beta_1 \times \text{treatment}_i + \beta_2 \times \text{C4}_i + \beta_3 \times \text{LDMC}_i + \beta_4 \times \text{tiller density}_i + \omega_{tribe_{k[i]}} + \omega_{spp_{j[i]}} \\
+\omega_{tribe_k} &\sim \mathcal{N}(0, \tau_{tribe}) \\
+\omega_{spp_j} &\sim \mathcal{N}(0, \tau_{spp})
+\end{aligned}
+\end{equation}.
+
+Here, the mean intercept, $\beta_0$ represents the predicted log density of post-fire tillers for a C$_3$ grass from an average hypothetical species and tribe growing in the 4-day watering treatment with a mean leaf dry matter content (i.e 337 mg g$^{-1}$) and mean pre-fire tiller density (i.e. 2.95 cm$^{-2}$). $\beta_{1-4}$, represent the effects of 8-day watering treatment (if treatment = 1) or 11-day watering treatment (if treatment = 2), being a C$_4$ grass, Leaf Dry Matter Content and pre-fire tiller density, respectively. $\omega_{tribe_{k[i]}}$ and $\omega_{spp_j[i]}$ represents the residual variation attributable to grass tribe, $k$, and species, $j$, in which individual $i$ belongs.
+
+\clearpage
+
+### Priors{-}
+In both sub-models the intercepts ($\alpha_0$ and $\beta_0$) and coefficients ($\alpha_{1-4}$ and $\beta_{1-4}$) were estimated from weakly informative Cauchy priors with a standard deviation of 5:
+
+\begin{equation}
+\label{intercept_coef_priors}
+\alpha_0,\beta_0,\alpha_{1-4},\beta_{1-4} \sim \text{Cauchy}(0,5).
+\end{equation}
+
+Half Cauchy priors centered zero with a standard deviation of 5 were used to estimate standard deviation parameters:
+\begin{equation}
+\label{sigma_priors}
+\sigma_{tribe},\sigma_{spp},\tau_{tribe},\tau_{spp} \sim Cauchy(0,5),\ 0 \leq \infty.
+\end{equation}
+
+The over-dispersion parameter was estimated from a uniform prior bounded between 0 and 100:
+\begin{equation}
+\label{phi}
+\phi \sim Uniform(0,100).
+\end{equation}
+
