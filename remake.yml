@@ -4,6 +4,8 @@ packages:
   - dplyr
   - cowplot
   - ggplot2
+  - bookdown
+  - rmarkdown
   
 
 sources:
@@ -26,6 +28,7 @@ targets:
       - figures/count_partial_plots.pdf
       - figures/tribe_effects.pdf
       - figures/spp_effects.pdf
+      - manuscript/supplementary.pdf
  
   #------------- Load data --------------------------- 
   resprout_data:
@@ -54,3 +57,6 @@ targets:
     command: plot_spp_effects(resprout_model)
     plot: 1col_portrait
 
+  #------------- supplemental material ---------------------------
+  manuscript/supplementary.pdf:
+    command: render("manuscript/supplementary.Rmd")
