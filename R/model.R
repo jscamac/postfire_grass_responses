@@ -219,7 +219,7 @@ fit <- list(stan_data = stan_data,
                                 'pred_p_death_c4_ldmc', 'pred_count_c4_ldmc'),
                        cores = 3,
                        chains = 3,
-                       iter = 1000,
+                       iter = 2000,
                        control= list(adapt_delta=0.99, max_treedepth=15)))
 return(fit)
 }
