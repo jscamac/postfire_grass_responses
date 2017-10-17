@@ -146,9 +146,16 @@ plot_random_effect <- function(model,random_effect,xlab ='Effects', title=NULL, 
   
   if(random_effect %in% c("a_tribe", "b_tribe")) {
     df <- unique(data.frame(name = model$stan_data$tribe_name, 
-                            code =model$stan_data$tribe, 
-                            type = as.factor(model$stan_data$c4))) %>%
+                            code =model$stan_data$tribe)) %>%
       arrange(code)
+    
+    dat <- summarise_coefficients(model,random_effect) %>%
+      cbind(df,.) %>%
+      mutate(ID = factor(name, levels=name[order(mean)], ordered=TRUE)) %>%
+      arrange(ID)
+    
+    p1 <- ggplot(dat, aes(x = mean,y = ID))
+    
   }
   
   if(random_effect %in% c("a_spp", "b_spp")) {
@@ -156,22 +163,21 @@ plot_random_effect <- function(model,random_effect,xlab ='Effects', title=NULL, 
                             code =model$stan_data$spp, 
                             type = as.factor(model$stan_data$c4))) %>%
       arrange(code)
+    
+    dat <- summarise_coefficients(model,random_effect) %>%
+      cbind(df,.) %>%
+      mutate(ID = as.factor(paste0(name,"_",type))) %>%
+      mutate(ID = factor(ID, levels=ID[order(mean)], ordered=TRUE)) %>%
+      arrange(ID)
+    
+    p1 <- ggplot(dat, aes(x = mean,y = ID, col=type)) + 
+      scale_colour_manual("", values=c("0" ="black","1"="red"), 
+                          labels = c("C3", "C4"))
   }
-  
-  dat <- summarise_coefficients(model,random_effect) %>%
-    cbind(df,.) %>%
-    mutate(ID = as.factor(paste0(name,"_",type))) %>%
-    mutate(ID = factor(ID, levels=ID[order(mean)], ordered=TRUE)) %>%
-    arrange(ID)
-  
-  #Plot 
-  ggplot(dat, aes(x = mean,y = ID, col=type)) + 
-    geom_segment(aes(x=`2.5%`,y=ID, xend=`97.5%`, yend=ID), size =0.25) +
+  p1 + geom_segment(aes(x=`2.5%`,y=ID, xend=`97.5%`, yend=ID), size =0.25) +
     geom_segment(aes(x=`10%`,y=ID, xend=`90%`, yend=ID), size=0.5) +
     geom_point(aes(x=mean, y=ID), size=0.5) +
     scale_y_discrete(labels = dat$name) +
-    scale_colour_manual("", values=c("0" ="black","1"="red"), 
-                        labels = c("C3", "C4")) +
     xlab(xlab) +
     ylab(NULL) +
     labs(title=title) +
@@ -182,7 +188,7 @@ plot_random_effect <- function(model,random_effect,xlab ='Effects', title=NULL, 
 
 # Plots panel plots of tribe effects
 plot_tribe_effects <- function(model) {
-  p1 <- plot_random_effect(model, "a_tribe", "logit(effect)", title="Mortality model",  legend = c(0.90,0.5)) +
+  p1 <- plot_random_effect(model, "a_tribe", "logit(effect)", title="Mortality model") +
     theme(text = element_text(size=7))
   p2 <- plot_random_effect(model, "b_tribe", "log(effect)", title="Post-fire tiller abundance model") +
     theme(text = element_text(size=7))
