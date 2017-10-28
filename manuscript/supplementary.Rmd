@@ -88,12 +88,12 @@ In both sub-models the intercepts ($\alpha_0$ and $\beta_0$) and coefficients ($
 Half Cauchy priors centered zero with a standard deviation of 5 were used to estimate standard deviation parameters:
 \begin{equation}
 \label{sigma_priors}
-\sigma_{tribe},\sigma_{spp},\tau_{tribe},\tau_{spp} \sim Cauchy(0,5),\ 0 \leq \infty.
+\sigma_{tribe},\sigma_{spp},\tau_{tribe},\tau_{spp} \sim \text{Cauchy}(0,5),\ 0 \leq \infty.
 \end{equation}
 
 The over-dispersion parameter was estimated from a uniform prior bounded between 0 and 100:
 \begin{equation}
 \label{phi}
-\phi \sim Uniform(0,100).
+\phi \sim \text{Uniform}(0,100).
 \end{equation}
 
