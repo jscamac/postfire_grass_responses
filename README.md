@@ -59,7 +59,7 @@ Now we are all set to reproduce this project!
 To be able to run the code, we interface with the Rstudio within the docker container by running the following in the terminal/shell (**NOTE** path to directory will need to be changed):
 
 ```
-docker run -e -e DISABLE_AUTH=true -v /Users/path/to/repository/:/home/rstudio -p 8787:8787 jscamac/grass_resprout
+docker run -e DISABLE_AUTH=true -v /Users/path/to/repository/:/home/rstudio -p 8787:8787 jscamac/grass_resprout
 
 ```
 Now just open your web browser and go to the following: `localhost:8787/`. This should open an Rstudio server session.
