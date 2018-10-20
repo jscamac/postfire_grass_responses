@@ -9,6 +9,7 @@ We examined responses of 52 temperate perennial Australian grass species, spanni
 This repository contains the data and code to reproduce the analysis and figures.
 
 **Paper is has been published in New Phytologist**
+
 https://nph.onlinelibrary.wiley.com/doi/abs/10.1111/nph.15480
 
 
@@ -55,7 +56,7 @@ docker build --rm --no-cache -t jscamac/grass_resprout .
 Now we are all set to reproduce this project!
 
 ### Rstudio from within docker
-To be able to run the code, we interface with the Rstudio within the docker container by running the following in the terminal/shell:
+To be able to run the code, we interface with the Rstudio within the docker container by running the following in the terminal/shell (**NOTE** path to directory will need to be changed):
 
 ```
 docker run -e -e DISABLE_AUTH=true -v /Users/path/to/repository/:/home/rstudio -p 8787:8787 jscamac/grass_resprout
